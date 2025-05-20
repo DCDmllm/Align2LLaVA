@@ -19,7 +19,58 @@ Align<sup>2</sup>LLaVA is a novel instruction curation algorithm, derived from t
 
 <img src='method.png' width="90%">
 
-Code will be available soon.
+In this repository, we provide implementation for our proposed reward models in the human knowledge alignment, and LLaVA-1.5 instruction tuning.
+
+## Intallation
+
+1. Clone this repository and enter the root directory.
+   
+   ```
+   git clone https://github.com/DCDmllm/Align2LLaVA.git
+   cd Align2LLaVA
+   ```
+2. Clone the [LLaVA](https://github.com/haotian-liu/LLaVA) repository, Install the environment for LLaVA-1.5 instruction tuning.
+
+   ```
+   git clone https://github.com/haotian-liu/LLaVA.git
+   cd LLaVA
+   conda create -n llava python=3.10 -y
+   conda activate llava
+   pip install --upgrade pip  # enable PEP 660 support
+   pip install -e .
+   ```
+3. Install additional packages for training cases.
+
+   ```
+   pip install -e ".[train]"
+   pip install flash-attn --no-build-isolation
+   ```
+4. Clone the LLaVA-1.5 environment to prepare a new one for reward model.
+
+   ```
+   conda create -n align2llava_rm --clone llava
+   conda activate align2llava_rm
+   pip uninstall llava  # reward models and LLaVA-1.5 use different code base
+   ```
+
+## Reward Model
+
+The implementation of our reward model is in the `reward_model` directory. See [reward model](reward_model/README.md) for details.
+
+## Dataset
+
+Todo
+
+## LLaVA-1.5 Instruction Tuning
+
+We directly fine-tune LLaVA-1.5 on our aligned instructions without any changes to the official code base. To start training, specify the data path and run the script:
+
+```
+cd LLaVA
+bash ./scripts/v1_5/finetune_lora.sh
+```
+
+To evaluate the fine-tuned model, see the [official evaluation document](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md) for details.
 
 ## Referencing and Citing
 
