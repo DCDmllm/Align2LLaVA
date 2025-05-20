@@ -1,0 +1,3873 @@
+[
+  {
+    "id": "000000203511",
+    "image": "000000203511.jpg",
+    "questions": [
+      [
+        "<image>\nWhat potential issues might arise in this park situation?"
+      ],
+      [
+        "If you notice a dog is about to eat a cake from the ground while its owner is nearby, how might you intervene?"
+      ],
+      [
+        "What could be a potential risk for the dogs in this park?"
+      ],
+      [
+        "Considering the two animals identified in the image, what potential concerns could be derived due to their location and activity?"
+      ],
+      [
+        "What kind of event is likely happening here, based on the animals' behavior and the items on the ground?"
+      ],
+      [
+        "How might the scene indicate a special event for the canine featured here, and what are some visible cues about the other dogs' reactions?"
+      ],
+      [
+        "Based on the behavior of the dog that is off-leash, what might be the purpose of its presence in this setting, and how does it relate to the object on the ground?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.6,
+      0.8,
+      0.9,
+      0.9,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "000000569957",
+    "image": "000000569957.jpg",
+    "questions": [
+      [
+        "<image>\nWhat was captured in this moment that displays the relationship between the bird and its surroundings?"
+      ],
+      [
+        "Can you infer the possible living environment or habits of the bird based on the image?"
+      ],
+      [
+        "What might be the purpose, or adaptability advantage, for the bird flying high in mountainous regions?"
+      ],
+      [
+        "Why might the bird choose to fly high near the mountains?"
+      ],
+      [
+        "What factors could contribute to the visual perception of the bird in this image?"
+      ],
+      [
+        "How might this bird be influenced by its current environment during flight?"
+      ],
+      [
+        "Considering the environment, what might the bird be doing at this altitude and distance from land?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.5,
+      0.7,
+      0.9,
+      0.9,
+      0.7,
+      0.9
+    ]
+  },
+  {
+    "id": "000000487194",
+    "image": "000000487194.jpg",
+    "questions": [
+      [
+        "How can the photo inspire someone who wants to host a party?\n<image>"
+      ],
+      [
+        "What precautions should be considered while handling the item shown in this image?"
+      ],
+      [
+        "What might someone be preparing to do or have done recently based on the objects and their state in the picture?"
+      ],
+      [
+        "Why might someone pause cutting the cheese and leave it on the cutting board?"
+      ],
+      [
+        "Considering the knife and the slices, what activity might have been happening in this kitchen?"
+      ],
+      [
+        "How can one determine the freshness of the items cut on the board?"
+      ],
+      [
+        "What might be the intended use of these objects in the near future?"
+      ]
+    ],
+    "score": [
+      0.3,
+      0.2,
+      0.2,
+      0.1,
+      0.3,
+      0.6,
+      0.5
+    ]
+  },
+  {
+    "id": "000000135907",
+    "image": "000000135907.jpg",
+    "questions": [
+      [
+        "<image>\nWhat can you tell about the homeowner's habits regarding their kitchen?"
+      ],
+      [
+        "Why does the placement of objects in the kitchen seem deliberate and organized?"
+      ],
+      [
+        "What might be the ongoing household activity?"
+      ],
+      [
+        "Based on the different objects spotted in the scene, what activities could potentially take place in this room?"
+      ],
+      [
+        "Considering someone is planning a late-night snack, what factors in this kitchen would contribute to a convenient experience?"
+      ],
+      [
+        "Considering the functional aspects of this space, what specific task might be less efficient here, and how could the design be improved to support it?"
+      ],
+      [
+        "Considering the objects and their arrangement, what would be one's best approach to maintain the aesthetic appeal of this space during day-to-day use?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.1,
+      0.2,
+      0.4,
+      0.1,
+      0.1,
+      0.4
+    ]
+  },
+  {
+    "id": "000000307030",
+    "image": "000000307030.jpg",
+    "questions": [
+      [
+        "What considerations would one have when designing this bathroom?\n<image>"
+      ],
+      [
+        "What factors might have influenced the design choices in this room?"
+      ],
+      [
+        "What is the dominant color scheme in this space and how does it influence the aesthetic of the area?"
+      ],
+      [
+        "What makes this bathroom unique?"
+      ],
+      [
+        "How might the functionality of this space be improved while adhering to safety regulations?"
+      ],
+      [
+        "What design choices would be practical for increasing storage in this bathroom?"
+      ],
+      [
+        "How does the design of this space cater to accessibility and what might be improved upon for better functionality?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.4,
+      0.6,
+      0.2,
+      0.2,
+      0.1,
+      0.3
+    ]
+  },
+  {
+    "id": "000000521339",
+    "image": "000000521339.jpg",
+    "questions": [
+      [
+        "What risk factors are present for the skateboarder?\n<image>"
+      ],
+      [
+        "How does the boy's placement on the skateboard ramp potentially indicate his skill level?"
+      ],
+      [
+        "What skills does the boy need for the action he is taking?"
+      ],
+      [
+        "What risks could the skater potentially encounter?"
+      ],
+      [
+        "Based on the position and feet placement on the board, what might the skateboarder be attempting to do next?"
+      ],
+      [
+        "Consider the skater's position and orientation in relation to the ramp surface; what does this indicate about his current action and what must the skater do immediately afterward to complete the maneuver successfully?"
+      ],
+      [
+        "Considering the context of the activity shown, what kind of environment is the individual in and what safety measures are likely in place?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.9,
+      0.9,
+      0.7,
+      0.9,
+      0.9,
+      0.5
+    ]
+  },
+  {
+    "id": "000000481441",
+    "image": "000000481441.jpg",
+    "questions": [
+      [
+        "<image>\nWhat kind of atmosphere does the setting with the black cat create?"
+      ],
+      [
+        "What can be inferred about the cat's behavior from the image?"
+      ],
+      [
+        "Why might the cat find the printed fabric appealing?"
+      ],
+      [
+        "What can be inferred about the black cat's behavior and its preferred environment?"
+      ],
+      [
+        "How might the environment affect the behavior exhibited by the animal in the image?"
+      ],
+      [
+        "How could the room's ambiance be affecting the cat's mood?"
+      ],
+      [
+        "How might the room's ambiance affect the behavior observed in the subject?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.5,
+      0.5,
+      0.9,
+      0.7,
+      0.7,
+      0.7
+    ]
+  },
+  {
+    "id": "000000254678",
+    "image": "000000254678.jpg",
+    "questions": [
+      [
+        "<image>\nWhat factors might influence the batter's performance during the game?"
+      ],
+      [
+        "What might be a decisive moment in the match?"
+      ],
+      [
+        "What is a critical skill the baseball player in action needs?"
+      ],
+      [
+        "What is the climax of this scene and why it might be crucial for the players?"
+      ],
+      [
+        "What specific moment in the game are we witnessing and what might be the possible outcome of this play?"
+      ],
+      [
+        "How can one determine if the batter has made a good hit in this situation?"
+      ],
+      [
+        "What pivotal moment in the sport could be taking place at this instant?"
+      ]
+    ],
+    "score": [
+      0.2,
+      0.6,
+      0.7,
+      0.7,
+      0.8,
+      0.6,
+      0.8
+    ]
+  },
+  {
+    "id": "000000159075",
+    "image": "000000159075.jpg",
+    "questions": [
+      [
+        "Why might the dog be standing on top of the truck?\n<image>"
+      ],
+      [
+        "What could be the potential risk associated with this situation?"
+      ],
+      [
+        "What is unconventional about the behavior of the dog?"
+      ],
+      [
+        "What unusual behavior does the dog in this image exhibit? Is this commonly seen and why might the dog be demonstrating this behavior?"
+      ],
+      [
+        "Why might a dog end up in this particular location, and what concerns could arise?"
+      ],
+      [
+        "How might the dog have ended up in such an unusual place, and what could be the immediate concern?"
+      ],
+      [
+        "Considering the position of the animal, what unusual behavior is it exhibiting, and how might this affect its surroundings?"
+      ]
+    ],
+    "score": [
+      0.3,
+      0.6,
+      0.7,
+      0.8,
+      0.5,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "id": "000000085827",
+    "image": "000000085827.jpg",
+    "questions": [
+      [
+        "<image>\nWhat possible challenges may occur due to the presence of horses and cars in the same space?"
+      ],
+      [
+        "What is an interesting contrast observed in the image?"
+      ],
+      [
+        "What tradition or practice could be observed in this city street."
+      ],
+      [
+        "Given the presence of both a horse and a car, what kind of transportation conflict might exist?"
+      ],
+      [
+        "Based on the setup visible, can you infer what service or activity is being offered here?"
+      ],
+      [
+        "Why might the animal be in an urban area and what implications could this have?"
+      ],
+      [
+        "What unusual elements can be spotted in this urban setting and how do they contrast with each other?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.8,
+      0.7,
+      0.5,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000443934",
+    "image": "000000443934.jpg",
+    "questions": [
+      [
+        "<image>\nWhat potential risks does the horse encounter in this situation?"
+      ],
+      [
+        "What might be the horse's objective or motivation?"
+      ],
+      [
+        "Why might the horse be acting this way?"
+      ],
+      [
+        "What could be the possible reason behind the horse's action?"
+      ],
+      [
+        "How might the physical features of the animal in the image influence its care and environment?"
+      ],
+      [
+        "Considering the posture and positioning of the animal, what might it be indicating about its behavior or needs?"
+      ],
+      [
+        "Considering the visual clues, how might the animal's current behavior be interpreted, and what could be the reason for it?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.7,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000331129",
+    "image": "000000331129.jpg",
+    "questions": [
+      [
+        "<image>\nWhat are some of the challenges in capturing a high-quality night photograph of Big Ben?"
+      ],
+      [
+        "Could you describe one of the most iconic elements in this image and how its visibility might influence the perception of time for people in the city?"
+      ],
+      [
+        "Why might this scene be considered iconic?"
+      ],
+      [
+        "What's distinctive about the structure in this setting?"
+      ],
+      [
+        "What steps would one take to achieve such a photograph at a location like this?"
+      ],
+      [
+        "Considering the time of day implied by the photo, which techniques are likely to have been used to capture the aesthetic quality of this scene?"
+      ],
+      [
+        "Based on the characteristics of the scene, what could be a reason why the area is sparsely populated at the time this photograph was taken?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.9,
+      0.8,
+      0.8,
+      0.9,
+      0.9,
+      0.6
+    ]
+  },
+  {
+    "id": "000000507322",
+    "image": "000000507322.jpg",
+    "questions": [
+      [
+        "What might the children be learning from this experience?\n<image>"
+      ],
+      [
+        "What is the learning opportunity for the children in this situation?"
+      ],
+      [
+        "What could be a potential reason for the children's interest in the cow?"
+      ],
+      [
+        "What might the girls be learning from this experience?"
+      ],
+      [
+        "Given the positioning of the animals and children, what might be the nature of their interaction?"
+      ],
+      [
+        "What insights could be gathered about the interaction happening in the scene?"
+      ],
+      [
+        "What might the children be doing in the presence of the animal and how does the setting seem appropriate for such an activity?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.8,
+      0.2,
+      0.8,
+      0.9,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000136860",
+    "image": "000000136860.jpg",
+    "questions": [
+      [
+        "<image>\nWhat features make this living room seem cozy and practical for entertainment purposes?"
+      ],
+      [
+        "What activities might be suitable for this area?"
+      ],
+      [
+        "How are the furniture pieces in this picture arranged for optimized space usage?"
+      ],
+      [
+        "What advantages might the layout of this room offer to someone looking for a relaxing evening at home?"
+      ],
+      [
+        "Considering the layout as depicted, what might be the key factors to consider for the acoustics in this space?"
+      ],
+      [
+        "How does the design of the space potentially affect the flow of movement for individuals in this area?"
+      ],
+      [
+        "How might the layout of the furniture in this room affect social interactions during a gathering?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.7,
+      0.7,
+      0.8
+    ]
+  },
+  {
+    "id": "000000100448",
+    "image": "000000100448.jpg",
+    "questions": [
+      [
+        "<image>\nWhat advice can be given to tennis players to improve their game?"
+      ],
+      [
+        "Can you infer the atmosphere of the tennis match happening in the image?"
+      ],
+      [
+        "What could be a possible event happening in the image?"
+      ],
+      [
+        "What differences in participation can you notice the frame?"
+      ],
+      [
+        "What might one deduce about the activity and skill level of the individual in the foreground compared to the person in the background?"
+      ],
+      [
+        "What could indicate that the activity taking place is organized and possibly competitive?"
+      ],
+      [
+        "What considerations might be important when practicing a serve in tennis based on the environment observed?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.5,
+      0.9,
+      0.5,
+      0.5,
+      0.9,
+      0.6
+    ]
+  },
+  {
+    "id": "000000515431",
+    "image": "000000515431.jpg",
+    "questions": [
+      [
+        "What might be happening in this unusual situation?\n<image>"
+      ],
+      [
+        "What can you remark about the scenario presenting a deviation from typical bathroom practices?"
+      ],
+      [
+        "What could be an explanation for this unusual situation?"
+      ],
+      [
+        "What peculiar scenario is unfolding in this environment?"
+      ],
+      [
+        "What safety considerations should be made in this scenario?"
+      ],
+      [
+        "Considering the context of the image, what might be an important lesson about child safety that can be derived from the scene?"
+      ],
+      [
+        "What consideration should be taken when arranging items on the countertop in such a household environment?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.8,
+      0.5,
+      0.9,
+      0.7,
+      0.7,
+      0.6
+    ]
+  },
+  {
+    "id": "000000003080",
+    "image": "000000003080.jpg",
+    "questions": [
+      [
+        "What considerations should be taken into account when scheduling a meeting outside this office building around this time?\n<image>"
+      ],
+      [
+        "What information does the presence of clocks on buildings typically provide aside from the current time?"
+      ],
+      [
+        "What can be inferred about the likely function of respective buildings?"
+      ],
+      [
+        "What is the possible significance of the time shown on the clock tower?"
+      ],
+      [
+        "Based on the design elements observed, what might be the purpose of the structure to which the clock is attached and how is the information conveyed?"
+      ],
+      [
+        "Considering the design features observed, how might the timepiece be integrated into the building's architecture?"
+      ],
+      [
+        "Considering the design elements visible, what could be the significance of the tower's design in a modern urban setting?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.5,
+      0.9,
+      0.6,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000140108",
+    "image": "000000140108.jpg",
+    "questions": [
+      [
+        "<image>\nWhat would be a suitable addition to this living room for a pet owner?"
+      ],
+      [
+        "What possible activities and hobbies might the people living in this house enjoy?"
+      ],
+      [
+        "Considering the evidence in the living room, what could one deduce about the possible activities or behaviors of the inhabitants?"
+      ],
+      [
+        "What leisure activities can someone take part in this room?"
+      ],
+      [
+        "What indications suggest that someone might be currently dwelling in this living space, and why might there be concerns regarding tidiness?"
+      ],
+      [
+        "How is the seating arranged in this living space and what activity might the arrangement support?"
+      ],
+      [
+        "What might be the function of the area directly visible through the open door, and how does it compare to the main area in terms of lighting?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.9,
+      0.5,
+      0.7,
+      0.9,
+      0.5,
+      0.7
+    ]
+  },
+  {
+    "id": "000000374910",
+    "image": "000000374910.jpg",
+    "questions": [
+      [
+        "How do the people in the living room socialize and have fun together?\n<image>"
+      ],
+      [
+        "What activity might be keeping the group of people engaged in the room, and how is it encouraging interaction?"
+      ],
+      [
+        "What could be the reason that not everyone in the room is involved in the game?"
+      ],
+      [
+        "What is the main activity happening in the living room and what might be the possible reasons for this gathering?"
+      ],
+      [
+        "What might be deduced about the group's activity and its impact on the room arrangement?"
+      ],
+      [
+        "How does the activity depicted might contribute to bonding among the participants?"
+      ],
+      [
+        "Based on the context of the activity being undertaken, what precautions should the individuals consider to ensure safety?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.8,
+      0.5,
+      0.8,
+      0.6,
+      0.9,
+      0.7
+    ]
+  },
+  {
+    "id": "000000055298",
+    "image": "000000055298.jpg",
+    "questions": [
+      [
+        "What are these people likely to engage in soon?\n<image>"
+      ],
+      [
+        "How is the group participating in a fun outdoor activity?"
+      ],
+      [
+        "What activity could these individuals be preparing to engage in?"
+      ],
+      [
+        "What common activity are these people likely participating in?"
+      ],
+      [
+        "Considering the objects they are holding and the environment, what activity might this group be preparing to engage in?"
+      ],
+      [
+        "What activity do the items being held by the individuals suggest they might be participating in?"
+      ],
+      [
+        "What activity might this group be preparing to engage in, and how can you tell?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000070310",
+    "image": "000000070310.jpg",
+    "questions": [
+      [
+        "<image>\nHow can one prepare a meal with the ingredients in this image?"
+      ],
+      [
+        "Based on the scene, what cooking technique may be employed?"
+      ],
+      [
+        "What could be the possible health benefits of the dish being prepared?"
+      ],
+      [
+        "What can be inferred about the cook's style?"
+      ],
+      [
+        "Based on the composition of the pot's content, what might be the intention of the person preparing these items, and which item could be most challenging to prepare for such a purpose?"
+      ],
+      [
+        "How might someone go about preparing the ingredients for a dish using these vegetables, considering their arrangement and state of cleanliness?"
+      ],
+      [
+        "How can one efficiently prepare the contents of this pot for cooking?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.6,
+      0.9,
+      0.5,
+      0.7,
+      0.8,
+      0.9
+    ]
+  },
+  {
+    "id": "000000236126",
+    "image": "000000236126.jpg",
+    "questions": [
+      [
+        "<image>\nWhat risks are associated with such arrangement in this outdoor setting?"
+      ],
+      [
+        "What can be inferred about the individual using these items?"
+      ],
+      [
+        "What does the scene suggest about the person's activity?"
+      ],
+      [
+        "What healthy habits does the person working here seem to be practicing?"
+      ],
+      [
+        "How might the placement of objects indicate a common modern day activity and what could be the primary tool involved?"
+      ],
+      [
+        "How might the arrangement seen in the image support someone who is working remotely?"
+      ],
+      [
+        "What correlation could be inferred about the user's behavior regarding work and hydration, and what suggests that awareness?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000433310",
+    "image": "000000433310.jpg",
+    "questions": [
+      [
+        "<image>\nWhy might the cow be wearing decorations and jewelry, and be led by a person?"
+      ],
+      [
+        "What might be the cultural significance of dressing up the cow?"
+      ],
+      [
+        "What could be inferred about the interaction between the animal and the human in this image?"
+      ],
+      [
+        "Can you speculate why the cow might be adorned with jewelry and led by a person in this scenario?"
+      ],
+      [
+        "Considering the decoration and attire of the animal, what cultural or festive significance could it possibly have?"
+      ],
+      [
+        "Considering the elaborateness of the decorations, what might be the purpose behind adorning the animal in such a manner?"
+      ],
+      [
+        "Given the attire, what might the animal be participating in or used for?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.8,
+      0.7,
+      0.8,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000496902",
+    "image": "000000496902.jpg",
+    "questions": [
+      [
+        "<image>\nWhy is it important to ensure that there are enough chairs and table space when hosting the children's birthday party in this scene?"
+      ],
+      [
+        "What activities are the children engaging in during the party, and how are they positioned?"
+      ],
+      [
+        "What activity is taking place at this event and what are some evident objects that reveal its nature?"
+      ],
+      [
+        "Considering the details of the scene, why might this gathering be memorable?"
+      ],
+      [
+        "What might be the context surrounding the scene depicted on the table, and what could impact the enjoyment of the occasion?"
+      ],
+      [
+        "What indications are there that this is a special event for a child, and how might the environment be contributing to the festive atmosphere?"
+      ],
+      [
+        "Considering the activities evident from the items and environment, what might you deduce about the event taking place, and what could be a likely reason for the presence of certain items on the table?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.9,
+      0.7,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000172218",
+    "image": "000000172218.jpg",
+    "questions": [
+      [
+        "<image>\nWhat potential benefits does having a computer nearby offer to the person using this bedroom?"
+      ],
+      [
+        "In what ways does the room setup facilitate night activities?"
+      ],
+      [
+        "What can you deduce about the owner's habits based on objects placement in the room?"
+      ],
+      [
+        "Considering the content of the picture, what could provide the user with some utility and convenience within their immediate vicinity if they were lying in bed?"
+      ],
+      [
+        "Considering the current state of the room, what activity might the occupant have recently been doing or is planning to do soon?"
+      ],
+      [
+        "What steps could one take to improve the ambiance before settling in for the night here?"
+      ],
+      [
+        "How might the functionality of this bedroom be influenced by the objects near the bed, and how could they facilitate certain activities?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.9,
+      0.9,
+      0.5,
+      0.6,
+      0.9
+    ]
+  },
+  {
+    "id": "000000348467",
+    "image": "000000348467.jpg",
+    "questions": [
+      [
+        "<image>\nWhy might the man in the image be experiencing discomfort?"
+      ],
+      [
+        "What peculiar action is the person taking in this scene?"
+      ],
+      [
+        "What odd behavior is the man displaying and what might be the possible reason for it?"
+      ],
+      [
+        "Based on the scene, what could be the man's possible motivations or reasons for his actions?"
+      ],
+      [
+        "Considering the context and surroundings, what might the individual be demonstrating, and what could be the potential reasons for it?"
+      ],
+      [
+        "Given the appearance and placement of objects in this particular room, what might the individual be demonstrating or highlighting?"
+      ],
+      [
+        "Consider the spatial constraints evident in the photo. How might one describe the limitations affecting certain activities in this setting?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.7,
+      0.7,
+      0.8,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000398514",
+    "image": "000000398514.jpg",
+    "questions": [
+      [
+        "What challenges do the skiers face while traversing the mountain?\n<image>"
+      ],
+      [
+        "What are these people possibly preparing for, given the image context, and what might be the challenges they face?"
+      ],
+      [
+        "What activity are these people involved in, and what can you infer about their equipment?"
+      ],
+      [
+        "Based on the journey this group of skiers is undertaking, what additional equipment aside from skis do you believe is crucial for this trip?"
+      ],
+      [
+        "Why might this group have chosen their current path, and what does it imply about their experience level?"
+      ],
+      [
+        "How prepared should individuals be to undertake the activity visible in the picture, considering the environment they are in?"
+      ],
+      [
+        "Considering the group's current activity and the environment, what preparations and precautions might have been critical before undertaking this venture?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.7,
+      0.65,
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  {
+    "id": "000000536164",
+    "image": "000000536164.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the main transportation-related activity happening in this scene, and what challenges might the passengers face?"
+      ],
+      [
+        "Can you describe the public transportation scene in this image and suggest how it might impact the city's overall mobility?"
+      ],
+      [
+        "What can you infer about the scene from the appearance and positions of the bus and the people?"
+      ],
+      [
+        "What are the potential activities of people in this scene?"
+      ],
+      [
+        "Why might this mode of transport be significant to the locale?"
+      ],
+      [
+        "Considering its appearance, what can be inferred about the vehicle?"
+      ],
+      [
+        "How does the image provide information about the period in which it was likely taken, and what kind of information does the bus convey about its service during that time?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.9,
+      0.9,
+      0.6,
+      0.9,
+      0.5
+    ]
+  },
+  {
+    "id": "000000404108",
+    "image": "000000404108.jpg",
+    "questions": [
+      [
+        "What safety precautions should boogie boarders take in the ocean?\n<image>"
+      ],
+      [
+        "What activates might these young men be engaged in to help them stay fit?"
+      ],
+      [
+        "What might be the shared interest of these two individuals?"
+      ],
+      [
+        "What are the men doing and what might be some challenges faced?"
+      ],
+      [
+        "Considering the positioning and body language of the individuals, what might be occurring between them?"
+      ],
+      [
+        "Based on the positioning and movement of the two individuals in the water, what activity are they likely engaging in, and what immediate action might they be anticipating?"
+      ],
+      [
+        "What precautions appear to be taken by the two individuals participating in the water activity, and how might these be beneficial?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.6,
+      0.9,
+      0.8,
+      0.9,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "id": "000000093332",
+    "image": "000000093332.jpg",
+    "questions": [
+      [
+        "<image>\nWhat factors can affect the players' gameplay and enjoyment in this park?"
+      ],
+      [
+        "Given the activity underway, what kinds of risks or precautions should these men consider?"
+      ],
+      [
+        "Why might the area where this game is being played pose risks?"
+      ],
+      [
+        "What potential disturbance could the two men playing Frisbee face in the field?"
+      ],
+      [
+        "Considering one of the individuals might be in the middle of a game requiring precision and coordination, what might be the objective, and what visual cues suggest the nature of the game?"
+      ],
+      [
+        "Considering the positioning and direction of the individuals in the image, what recommendation could be made for better gameplay?"
+      ],
+      [
+        "Considering the activity shown, which skill might be crucial for the person at a distance and why?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.7,
+      0.5,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000333433",
+    "image": "000000333433.jpg",
+    "questions": [
+      [
+        "<image>\nWhat emotions does the person at the top of the snowy mountain experience, and how do their actions reflect this?"
+      ],
+      [
+        "What could the snowboarder's body language indicate?"
+      ],
+      [
+        "What can be inferred about the person on the snowboard?"
+      ],
+      [
+        "What could one infer about the snowboarder's experience and feelings from their body language?"
+      ],
+      [
+        "What specific clothing and accessory choices suggest this individual is engaged in a winter sport, and what challenges might they face while participating in this activity?"
+      ],
+      [
+        "Considering the gear the individual is wearing and their stance, what activity are they likely preparing for or engaged in?"
+      ],
+      [
+        "Considering the attire and protective gear, what activity is the person preparing to engage in, and what are some safety considerations they should keep in mind?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.9,
+      0.5,
+      0.9,
+      0.8,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000491737",
+    "image": "000000491737.jpg",
+    "questions": [
+      [
+        "What are some potential concerns related to hygiene in this kitchen environment?\n<image>"
+      ],
+      [
+        "What could be the man possibly making in the kitchen?"
+      ],
+      [
+        "Considering this situation, what might the man be planning to do next?"
+      ],
+      [
+        "What is the person doing and what tools or items are they surrounded by?"
+      ],
+      [
+        "Considering the contents visible in the workspace, what type of food preparation might be underway and what are the specific processes that can be inferred?"
+      ],
+      [
+        "What procedure could the individual in the kitchen be performing, and how does it likely contribute to the culinary process?"
+      ],
+      [
+        "How might the preparation process be different for cooking the item seen at the front of the preparation table compared to the other items visible in the setting?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.5
+    ]
+  },
+  {
+    "id": "000000010689",
+    "image": "000000010689.jpg",
+    "questions": [
+      [
+        "<image>\nWhat historical significance can be deduced from the combination of elements in this scene?"
+      ],
+      [
+        "What does the presence of the iconic clock tower in the image suggest about the location?"
+      ],
+      [
+        "What might be the potential reasons or attractions for people to take a boat ride in this area?"
+      ],
+      [
+        "What are some potential tourist activities that can be inferred from this image?"
+      ],
+      [
+        "What could be an important historical aspect of this specific architectural structure?"
+      ],
+      [
+        "Based on the structure and details, where might this photo have been taken and what is its significance?"
+      ],
+      [
+        "Considering the direction of the shadows, at what time of the day might the photo have been taken?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.4,
+      0.5,
+      0.6,
+      0.1,
+      0.7,
+      0.8
+    ]
+  },
+  {
+    "id": "000000365512",
+    "image": "000000365512.jpg",
+    "questions": [
+      [
+        "What elements of an ideal workspace can be found in this image?\n<image>"
+      ],
+      [
+        "Why might someone judge this workspace to be well-organized?"
+      ],
+      [
+        "Could you identify a possibly distracting element in this workspace setup that might hinder productivity, and suggest an improvement?"
+      ],
+      [
+        "Why might someone have this particular setup?"
+      ],
+      [
+        "How might one optimize their workflow in this workspace?"
+      ],
+      [
+        "How might one's productivity be affected by the organization of the workspace depicted, and what suggestions could be made for improvement?"
+      ],
+      [
+        "What considerations may have been taken into account when setting up this workspace to promote productivity and focus?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.5,
+      0.3,
+      0.4,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "id": "000000051563",
+    "image": "000000051563.jpg",
+    "questions": [
+      [
+        "What is the primary mode of transportation for the police officers in this image, and how does it differ from typical police transportation?\n<image>"
+      ],
+      [
+        "What problems can arise while policing a city on horseback?"
+      ],
+      [
+        "How do these police officers distinguish themselves in this busy urban environment?"
+      ],
+      [
+        "What is distinctive about the mode of transportation used by the personnel in this city scene?"
+      ],
+      [
+        "Considering the equipment observed on the persons, what might be their occupation and how does it relate to their current environment?"
+      ],
+      [
+        "Considering the formation and attire, what kind of event or duty could these individuals be participating in?"
+      ],
+      [
+        "Considering the formation in which the individuals are traveling, what can be inferred about their roles and the context of their activity?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.5,
+      0.8,
+      0.8,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000086842",
+    "image": "000000086842.jpg",
+    "questions": [
+      [
+        "Is there anything unusual regarding the placement of the items in the scene, and why?\n<image>"
+      ],
+      [
+        "What can the placement of items in this setting reveal about their usage?"
+      ],
+      [
+        "What might be the reason behind the specific placement of the items in this setting?"
+      ],
+      [
+        "What could be inferred from the objects' arrangement in this setting?"
+      ],
+      [
+        "Considering the arrangement shown, what might a user need to be cautious about when operating the appliance?"
+      ],
+      [
+        "Why might the user want to be cautious when operating this kitchen appliance?"
+      ],
+      [
+        "How does this object's functionality relate to its use in daily life, and what might be a common reason someone needs to refer to the object's manual or informational materials?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.9,
+      0.5,
+      0.9,
+      0.8,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000015276",
+    "image": "000000015276.jpg",
+    "questions": [
+      [
+        "<image>\nWhat could be the possible consequence for drivers in this scene?"
+      ],
+      [
+        "Why is the police officer situated by the roadside?"
+      ],
+      [
+        "What potentially risky behavior is being addressed in this scene?"
+      ],
+      [
+        "Based on the image, what is likely the function of the police officer's activity?"
+      ],
+      [
+        "What can be inferred about the actions of the motorcyclist at this moment, and what considerations should they take into account before resuming travel?"
+      ],
+      [
+        "Considering the objects around, what might the individual by the motorcycle be doing?"
+      ],
+      [
+        "Based on the visible road signs, what actions might the motorcyclist need to consider next?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.6,
+      0.8,
+      0.8,
+      0.9,
+      0.5,
+      0.9
+    ]
+  },
+  {
+    "id": "000000374357",
+    "image": "000000374357.jpg",
+    "questions": [
+      [
+        "<image>\nWhat issue does the garbage truck create in this scene?"
+      ],
+      [
+        "From the traffic management perspective, what could be a potential issue in this scene?"
+      ],
+      [
+        "What possible implications could the scene have for traffic in the city?"
+      ],
+      [
+        "What traffic situation is presented in the image, and how might it affect the flow of vehicles in the area?"
+      ],
+      [
+        "What implications does the positioning of the vehicles and signage suggest for approaching traffic?"
+      ],
+      [
+        "Considering the road signs and the vehicle's activity, what should a driver approaching this intersection be prepared to do, and what might be an additional concern?"
+      ],
+      [
+        "What considerations should be taken into account in this urban environment regarding pedestrian safety?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.9,
+      0.9,
+      0.7,
+      0.9,
+      0.5
+    ]
+  },
+  {
+    "id": "000000084886",
+    "image": "000000084886.jpg",
+    "questions": [
+      [
+        "<image>\nWhat are some possible color combinations of the pillows on the bed?"
+      ],
+      [
+        "What elements can you use to describe the set-up of this bedroom?"
+      ],
+      [
+        "What can be inferred about the person who might sleep in this bed?"
+      ],
+      [
+        "What can you deduce about the person\u2019s lifestyle or habits based on the bedroom appearance?"
+      ],
+      [
+        "How could one describe the atmosphere or style this room intends to convey, and what elements contribute to that perception?"
+      ],
+      [
+        "What decorative choice might have influenced the perceived mood in the room?"
+      ],
+      [
+        "How could one improve the ambiance of the room for a better coastal theme?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.8,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.6
+    ]
+  },
+  {
+    "id": "000000373639",
+    "image": "000000373639.jpg",
+    "questions": [
+      [
+        "<image>\nWhat might have taken place before this scene and what the appropriate action should be now?"
+      ],
+      [
+        "What might this scene suggest about the recent activities in this location?"
+      ],
+      [
+        "What might the condition of the place suggest about the recent activities?"
+      ],
+      [
+        "What appears to have taken place recently and what might be the next steps?"
+      ],
+      [
+        "Considering the items and their condition, what activity likely took place on this table?"
+      ],
+      [
+        "How might one conclude that a breakfast or snack has recently been had in this setting?"
+      ],
+      [
+        "Why might someone deduce that breakfast was recently prepared in this setting?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.5,
+      0.5,
+      0.6,
+      0.6,
+      0.7,
+      0.8
+    ]
+  },
+  {
+    "id": "000000087986",
+    "image": "000000087986.jpg",
+    "questions": [
+      [
+        "What potential hazards should the boy be cautious about while playing?\n<image>"
+      ],
+      [
+        "What activity is the boy engaged in and how might it benefit him?"
+      ],
+      [
+        "What can be inferred about the boy's environment and activity?"
+      ],
+      [
+        "Based on the posture and environment, what could be inferred about the boy's gaming habits?"
+      ],
+      [
+        "Given the context of the room and the items present, what can you infer about the occasion and how might it relate to the action of the child?"
+      ],
+      [
+        "Considering the current activity, what might the child be doing with the object in hand, and what could be the significance of the environment around them?"
+      ],
+      [
+        "Considering the activities typically associated with this setting, what might be the child's plan with the item in his hand?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000477409",
+    "image": "000000477409.jpg",
+    "questions": [
+      [
+        "How does the activity in the image differ from what one might expect?\n<image>"
+      ],
+      [
+        "Based on the man's activity, what could be inferred about his preferred style of outdoor recreation?"
+      ],
+      [
+        "What factors might affect the man's ability to play with the frisbee on the beach?"
+      ],
+      [
+        "Can you analyze the man's activity considering the objects he is interacting with in different parts of the image?"
+      ],
+      [
+        "How might the peculiar object in the sky be explained?"
+      ],
+      [
+        "Considering the dynamics of the image, what activity could someone infer the person is engaging in, and how does the unusual object in the sky contribute to the situation?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000391367",
+    "image": "000000391367.jpg",
+    "questions": [
+      [
+        "<image>\nWhat precautions has the man taken before working on his sailboat at the beach?"
+      ],
+      [
+        "What considerations might the man have in this scene?"
+      ],
+      [
+        "What precautions does the man appear to be taking?"
+      ],
+      [
+        "Even though the man is close to water, why is he wearing a life jacket?"
+      ],
+      [
+        "What preparatory actions might be needed for the task the individual seems to be undertaking?"
+      ],
+      [
+        "Given the current situation, what preparatory steps might the individual have taken before setting off?"
+      ],
+      [
+        "What might be the purpose of the pole attached to the boat?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.8,
+      0.9,
+      0.5,
+      0.8,
+      0.6
+    ]
+  },
+  {
+    "id": "000000452251",
+    "image": "000000452251.jpg",
+    "questions": [
+      [
+        "<image>\nWhat makes this docking area visually appealing?"
+      ],
+      [
+        "How does the variety of boats contribute to the scenery?"
+      ],
+      [
+        "How does the approach to boat storages in this location during off-season appear to be?"
+      ],
+      [
+        "Considering the scale and arrangement of the boats in the scene, what can you infer about the popularity of the town or the activities there?"
+      ],
+      [
+        "Considering the positioning of vessels in this marina, what guidance would you give to someone attempting to navigate a boat out of this area?"
+      ],
+      [
+        "Considering the conditions observed, what considerations should a boat owner take into account before setting out?"
+      ],
+      [
+        "How might the weather influence the activities in the area depicted in the photograph?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.9,
+      0.9,
+      0.5,
+      0.6,
+      0.6,
+      0.8
+    ]
+  },
+  {
+    "id": "000000195132",
+    "image": "000000195132.jpg",
+    "questions": [
+      [
+        "How can the parent ensure the kids are safe while playing baseball in the yard?\n<image>"
+      ],
+      [
+        "What is the impact of this setting on the children's development?"
+      ],
+      [
+        "What could be the role of the third person in this scene?"
+      ],
+      [
+        "What kind of bonding activity can you infer from the scene?"
+      ],
+      [
+        "Considering their activities, how might the physical development of the children be fostered in this outdoor environment?"
+      ],
+      [
+        "In a scenario where two young children are engaged in a backyard activity, what might be the nature of the interaction and what could be the objective?"
+      ],
+      [
+        "Considering the outdoor activity depicted, what might be the role of the person standing facing away from the camera, and what could be their next action?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.8,
+      0.9,
+      0.9,
+      0.8,
+      0.8,
+      0.9
+    ]
+  },
+  {
+    "id": "000000060539",
+    "image": "000000060539.jpg",
+    "questions": [
+      [
+        "<image>\nWhat factors might be affecting the woman's ability to focus on her work with her laptop?"
+      ],
+      [
+        "What might be the possible activities or engagements this person has in this setting?"
+      ],
+      [
+        "What might this woman's habits or attitudes towards her pets indicate?"
+      ],
+      [
+        "What can be inferred about the woman's relationship with her pet?"
+      ],
+      [
+        "How does the image demonstrate multitasking and what elements provide a sense of the person's environment and potential distractions?"
+      ],
+      [
+        "How might the presence of an animal influence the individual's task?"
+      ]
+    ],
+    "score": [
+      0.4,
+      0.7,
+      0.7,
+      0.7,
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "id": "000000236519",
+    "image": "000000236519.jpg",
+    "questions": [
+      [
+        "<image>\nWhat potential risks should the man be aware of in his location?"
+      ],
+      [
+        "Do you think it's a typical place for him to wear a suit?"
+      ],
+      [
+        "What can be inferred about the man's profession or social status?"
+      ],
+      [
+        "What kind of impression do we get from the man in the image?"
+      ],
+      [
+        "Considering the person's attire, what might be their reason for being at this location?"
+      ],
+      [
+        "Considering the individual's attire and location, what might be the purpose of their presence?"
+      ],
+      [
+        "From the perspective of fashion, what can be noted about the individual's attire in terms of coordination?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.2,
+      0.6,
+      0.6,
+      0.7,
+      0.7,
+      0.6
+    ]
+  },
+  {
+    "id": "000000161381",
+    "image": "000000161381.jpg",
+    "questions": [
+      [
+        "What aspect of a baseball game can potentially impact its outcome the most?\n<image>"
+      ],
+      [
+        "How might you describe the intense moment captured in the image?"
+      ],
+      [
+        "What critical moment in the game are the players experiencing?"
+      ],
+      [
+        "What is the focus of this image and what does it suggest about the possible next moment in the scene?"
+      ],
+      [
+        "What preparations could benefit the batter to perform optimally in this situation?"
+      ],
+      [
+        "Considering the attire of the individuals and the equipment being used, what is the likely environment and how might the weather conditions be affecting the activity?"
+      ],
+      [
+        "How does the positioning of the players contribute to the dynamics of the game in this scenario?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.5,
+      0.7,
+      0.9
+    ]
+  },
+  {
+    "id": "000000431167",
+    "image": "000000431167.jpg",
+    "questions": [
+      [
+        "What happened during this particular moment in the game?\n<image>"
+      ],
+      [
+        "What can you infer about the skill level of the baseball player from this photo?"
+      ],
+      [
+        "Based on the player's position and the ball's location, what is the result of the player's action?"
+      ],
+      [
+        "What might have happened immediately before the moment captured in this image?"
+      ],
+      [
+        "Considering the typical performance of a baseball batter, what action is the figure in the image likely in the process of completing, and what challenges might they encounter?"
+      ],
+      [
+        "What indication is there that the batter has hit the ball and what might be the immediate outcomes of this situation in the game?"
+      ],
+      [
+        "Considering the scenario depicted, what important moment in the game does this represent and what skills does the player need to demonstrate?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.9,
+      0.9,
+      0.8,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000280908",
+    "image": "000000280908.jpg",
+    "questions": [
+      [
+        "What could be the potential risks or challenges for this man?\n<image>"
+      ],
+      [
+        "What skill is the man demonstrating in the image?"
+      ],
+      [
+        "What might be the possible reasons for the man's actions?"
+      ],
+      [
+        "What are the risks involved in the activity the man is engaging in?"
+      ],
+      [
+        "Considering the surroundings and the person's equipment, what activity is the individual engaged in, and how does it differ from the traditional setting for this sport?"
+      ],
+      [
+        "Given the environment, how is the sport being practiced atypical, and what skill set might be necessary to navigate the conditions shown?"
+      ],
+      [
+        "How does this activity differ from typical surfing, and what might be the objective of the participant?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.5,
+      0.8,
+      0.9,
+      0.9,
+      0.5
+    ]
+  },
+  {
+    "id": "000000125686",
+    "image": "000000125686.jpg",
+    "questions": [
+      [
+        "What is something that could positively impact the tennis player's performance during the match?\n<image>"
+      ],
+      [
+        "From the perspective of the audience, what's happening and what might they be anticipating next in the scene?"
+      ],
+      [
+        "What is the main action taking place, and what might be the phase of this action?"
+      ],
+      [
+        "What crucial moment in a tennis match is captured in this image?"
+      ],
+      [
+        "Based on the player's body language and equipment, what might be occurring in the match, and what is the player's likely action?"
+      ],
+      [
+        "Why might it be necessary for the athlete to adjust his stance or technique after this moment?"
+      ],
+      [
+        "How might the player's form and technique affect his performance in a match?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.7,
+      0.7
+    ]
+  },
+  {
+    "id": "000000168161",
+    "image": "000000168161.jpg",
+    "questions": [
+      [
+        "How might these two young men be benefiting from studying together using laptops?\n<image>"
+      ],
+      [
+        "What could be the possible activity that the two men are engaged in?"
+      ],
+      [
+        "What type of environment might these young men be in, and what activities are they doing?"
+      ],
+      [
+        "What can be inferred about the two men's activity?"
+      ],
+      [
+        "Considering the number of laptops and their arrangement, what might be the primary activity taking place?"
+      ],
+      [
+        "Given the positioning of the individuals, what might be suggested about their collaboration?"
+      ],
+      [
+        "Considering the objects and positions, what might be the focus of the individuals in this environment?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.6,
+      0.9
+    ]
+  },
+  {
+    "id": "000000470720",
+    "image": "000000470720.jpg",
+    "questions": [
+      [
+        "What impact does the road closure have on pedestrians and nearby businesses?\n<image>"
+      ],
+      [
+        "Considering the number of pedestrians and cyclists observed, how might the road closure impact the city's daily flow?"
+      ],
+      [
+        "What could be the reason for the closure of the road in this city?"
+      ],
+      [
+        "What precautions have been taken on this city street and what are the citizens doing in response?"
+      ],
+      [
+        "Based on the city infrastructure, what kind of activity might someone approach this scene for?"
+      ],
+      [
+        "Considering the scene, what might be the impact on daily activities in the area?"
+      ],
+      [
+        "Considering the urban setting, what might have prompted the current state of the road, and how would it affect the daily routines of people?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.5,
+      0.5,
+      0.9,
+      0.5,
+      0.7,
+      0.9
+    ]
+  },
+  {
+    "id": "000000050662",
+    "image": "000000050662.jpg",
+    "questions": [
+      [
+        "<image>\nWhat are some potential activities or projects these women might be engaged in?"
+      ],
+      [
+        "What does the interaction between these two individuals seem to suggest about their activity?"
+      ],
+      [
+        "What is the possible interaction between the two women?"
+      ],
+      [
+        "Based on the visual clues, what type of activity might these two women be engaged in?"
+      ],
+      [
+        "Considering the sign in the background, what might this person be doing?"
+      ],
+      [
+        "Considering the environment and the signage, what kind of activity can be inferred to be going on here, and what might be the purpose?"
+      ],
+      [
+        "Considering the provided equipment and environment, what activity is likely taking place and what could be its purpose?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.5,
+      0.5,
+      0.9,
+      0.9,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000518638",
+    "image": "000000518638.jpg",
+    "questions": [
+      [
+        "Why are traffic lights and street signs usually mounted on a pole?\n<image>"
+      ],
+      [
+        "What implications does the image suggest in terms of movement and direction?"
+      ],
+      [
+        "Why should someone pay attention to this particular piece of city infrastructure?"
+      ],
+      [
+        "What implications does the image have concerning traffic regulations?"
+      ],
+      [
+        "How could the presence of this signal influence a pedestrian's decision at this location?"
+      ],
+      [
+        "Given the specific sign on the traffic light, which directional options might a driver encounter and what decision might they need to make at this intersection?"
+      ],
+      [
+        "Considering the current state of the traffic control device, what might a pedestrian waiting to cross at this intersection need to remember?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.6,
+      0.3,
+      0.7,
+      0.5,
+      0.4
+    ]
+  },
+  {
+    "id": "000000563771",
+    "image": "000000563771.jpg",
+    "questions": [
+      [
+        "<image>\nWhat can be inferred about the lifestyle and preferences of the homeowner from the kitchen setup?"
+      ],
+      [
+        "What could have been the intention of the room layout?"
+      ],
+      [
+        "How would you describe the layout and function of the rooms seen in the photo?"
+      ],
+      [
+        "Considering the layout and position of different items, what type of lifestyle might the resident of this house prefer?"
+      ],
+      [
+        "What could indicate the multifunctional use of the space shown and how might it affect the living experience?"
+      ],
+      [
+        "Based on the interior design, what can be inferred about the preferences or lifestyle of the inhabitants of this space?"
+      ],
+      [
+        "How might the arrangement of this living space influence daily activities?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.4,
+      0.8,
+      0.7,
+      0.6,
+      0.7,
+      0.6
+    ]
+  },
+  {
+    "id": "000000039669",
+    "image": "000000039669.jpg",
+    "questions": [
+      [
+        "<image>\nWhy might the owner allow the dog to rest on the furniture?"
+      ],
+      [
+        "What is the dog's current activity and its location?"
+      ],
+      [
+        "In terms of comfort for the dog, how well has the living area been organized?"
+      ],
+      [
+        "What might this scene tell us about the dog's relationship with its owner or the type of household it lives in?"
+      ],
+      [
+        "What could be a likely reason for the positioning of the dog in the photo?"
+      ],
+      [
+        "What indicates that this pet may have recently engaged in some mischief?"
+      ],
+      [
+        "What might the pet be experiencing in this moment and what clues in the setting suggest it?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.8,
+      0.8,
+      0.9,
+      0.5,
+      0.6,
+      0.8
+    ]
+  },
+  {
+    "id": "000000214827",
+    "image": "000000214827.jpg",
+    "questions": [
+      [
+        "<image>\nWhat's important to consider when maintaining the cleanliness of this bathroom?"
+      ],
+      [
+        "What might be suggested about the state of cleanliness in the bathroom?"
+      ],
+      [
+        "What is one way to interpret the arrangement of the items in this image?"
+      ],
+      [
+        "Why might the positioning of this bathroom feature be important?"
+      ],
+      [
+        "How could one optimize the use of space in this particular area for better cleanliness and organization?"
+      ],
+      [
+        "If one were to prepare this bathroom for guests, what steps should be taken considering its current state?"
+      ],
+      [
+        "Considering the items present, what routine maintenance task could be due in this bathroom area?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.9,
+      0.5,
+      0.9,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000553202",
+    "image": "000000553202.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the purpose of the event depicted in the image, and how do the attendees contribute to it?"
+      ],
+      [
+        "Based on the conditions and scene set in the image, what type of event might be happening?"
+      ],
+      [
+        "What is the purpose of this gathering and what activities might take place?"
+      ],
+      [
+        "What are the implications of the arena setup and presence of various elements in the image?"
+      ],
+      [
+        "What factors could influence the performance of the animals observed in this setting?"
+      ],
+      [
+        "How might the person with the stick in the image be involved in the activity seen in the arena?"
+      ],
+      [
+        "Considering the context, what skills might the dog be demonstrating in this scenario?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.3,
+      0.2,
+      0.4,
+      0.3,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "000000561137",
+    "image": "000000561137.jpg",
+    "questions": [
+      [
+        "<image>\nWhat impact might online communication have on emotional expression?"
+      ],
+      [
+        "What observation can be made about technology usage?"
+      ],
+      [
+        "What impact might the depicted technology have on communication and mood expression?"
+      ],
+      [
+        "How does the setup suggest the user's multitasking capabilities?"
+      ],
+      [
+        "Considering the user's interaction with technology, what actions might the person have taken prior to the moment captured in the image?"
+      ],
+      [
+        "How does the environment suggest an earlier era of personal technology and internet use?"
+      ],
+      [
+        "Considering the technological elements present, what does this image suggest about the time period it was captured in, and what might be some limitations based on the devices seen?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.3,
+      0.6,
+      0.5,
+      0.1,
+      0.7,
+      0.6
+    ]
+  },
+  {
+    "id": "000000483305",
+    "image": "000000483305.jpg",
+    "questions": [
+      [
+        "<image>\nWhat can be inferred about the woman's dining experience and location from the image?"
+      ],
+      [
+        "Can you guess the environment where this woman is dining based on some the elements present around her?"
+      ],
+      [
+        "What could be the possible purpose of her dining scenario?"
+      ],
+      [
+        "What might be the enjoyable aspects of this woman's dining experience?"
+      ],
+      [
+        "Without considering who it might be, what can be deduced about the person's dining experience?"
+      ],
+      [
+        "What considerations should be given regarding the meal the individual is having, based on the setting?"
+      ],
+      [
+        "Considering the setting, what can one infer about the environment and time of the meal?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.5,
+      0.8,
+      0.8,
+      0.6,
+      0.9
+    ]
+  },
+  {
+    "id": "000000573260",
+    "image": "000000573260.jpg",
+    "questions": [
+      [
+        "What can visitors expect to find in this shop, and which item is prominently displayed?\n<image>"
+      ],
+      [
+        "What kind of store might one mistakenly think this to be, and why would that be incorrect?"
+      ],
+      [
+        "What might the owner's interests be, based on the contents of the shop?"
+      ],
+      [
+        "What kind of business might the owner run based on the items seen in the photo?"
+      ],
+      [
+        "Considering the items on display inside this room, what might this indicate about the owner's interests or the nature of this establishment?"
+      ],
+      [
+        "Considering the objects in this space, what kind of collection is showcased, and what might be its theme?"
+      ],
+      [
+        "How does the content of the image suggest a theme of preservation or nostalgia?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.7,
+      0.5,
+      0.6,
+      0.3,
+      0.1
+    ]
+  },
+  {
+    "id": "000000234040",
+    "image": "000000234040.jpg",
+    "questions": [
+      [
+        "How can one maximize their relaxation during a leisurely evening at home?\n<image>"
+      ],
+      [
+        "What kind of activities do you think the man is engaged in based on the scene?"
+      ],
+      [
+        "What is the man possibly doing, based on what he's holding in his hands?"
+      ],
+      [
+        "What does the man's relaxation scene reveal about his activities and anticipations?"
+      ],
+      [
+        "How does the environment suggest the well-being of the individual and what steps could enhance it?"
+      ],
+      [
+        "What can one infer about the person's activity from the items surrounding them and their posture?"
+      ],
+      [
+        "What indications are there that suggest the person may have been engaging in a sedentary leisure activity for an extended period?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.8,
+      0.7,
+      0.8,
+      0.9,
+      0.8,
+      0.5
+    ]
+  },
+  {
+    "id": "000000014514",
+    "image": "000000014514.jpg",
+    "questions": [
+      [
+        "<image>\nWhat factors contribute to the efficiency of this particular kitchen?"
+      ],
+      [
+        "What could be a potential benefit and drawback of the kitchen's design?"
+      ],
+      [
+        "What makes this kitchen suitable for professional use?"
+      ],
+      [
+        "What are some possible implications for the choice of materials used in this kitchen?"
+      ],
+      [
+        "How might someone describe the workflow in this environment and what features facilitate that workflow?"
+      ],
+      [
+        "If someone were to prepare a large meal, which features of the kitchen facilities shown might be particularly beneficial, and why might this be the case?"
+      ],
+      [
+        "Considering the equipment visible, what operations are likely performed here?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.6,
+      0.8,
+      0.6,
+      0.5,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000186476",
+    "image": "000000186476.jpg",
+    "questions": [
+      [
+        "What could be the possible purpose of this gathering of people around the boxes of apples?\n<image>"
+      ],
+      [
+        "What kind of activity are the people engaging in, and why might it be important?"
+      ],
+      [
+        "What kind of activity could this gathering be related to, and why might it be happening?"
+      ],
+      [
+        "How does the activity captured in this picture support local agriculture?"
+      ],
+      [
+        "Considering the ongoing activity, what factors could contribute to the efficiency of the process depicted?"
+      ],
+      [
+        "How might the organization of this activity contribute to efficiency, and what does the layout indicate about the volume of produce handled?"
+      ],
+      [
+        "What could be an efficient method to ensure the quality of the produce being packed?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.8,
+      0.9,
+      0.6,
+      0.6,
+      0.5
+    ]
+  },
+  {
+    "id": "000000382188",
+    "image": "000000382188.jpg",
+    "questions": [
+      [
+        "What could be a possible reason for these two people playing video games, and how can it impact their relationship?\n<image>"
+      ],
+      [
+        "How might normal at-home activities look different based on this image?"
+      ],
+      [
+        "What is the cooperative activity taking place?"
+      ],
+      [
+        "What might be the relationship dynamic between the two individuals?"
+      ],
+      [
+        "In a social setting, what physical and social activity could be taking place?"
+      ],
+      [
+        "What might be the reason for the stance and the gestures of the two individuals?"
+      ],
+      [
+        "What could be the reason for the particular stance and gestures of the two individuals?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.8,
+      0.8,
+      0.7,
+      0.65,
+      0.65
+    ]
+  },
+  {
+    "id": "000000367615",
+    "image": "000000367615.jpg",
+    "questions": [
+      [
+        "<image>\nCan you identify some possible difficulties that the person who prepared this meal might have encountered?"
+      ],
+      [
+        "Based on the variety of food items, why might this meal be considered balanced and healthy?"
+      ],
+      [
+        "What can be inferred about the behavior of the person using this lunch box?"
+      ],
+      [
+        "What kind of lifestyle might the owner of this lunchbox lead, based on its content?"
+      ],
+      [
+        "What could be inferred about the individual who prepared this meal with respect to their dietary or lifestyle choices?"
+      ],
+      [
+        "Considering a nutritional and variety perspective, how would this selection of food accommodate someone's dietary needs throughout the day?"
+      ],
+      [
+        "Based on nutritional variety, how would you assess the contents of this lunchbox?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.5,
+      0.6,
+      0.6,
+      0.7,
+      0.7
+    ]
+  },
+  {
+    "id": "000000431504",
+    "image": "000000431504.jpg",
+    "questions": [
+      [
+        "<image>\nConsidering the image, how can one infer the diner's overall dining experience?"
+      ],
+      [
+        "What might be an indicator of a person's readiness to consume their dessert?"
+      ],
+      [
+        "What could this situation imply about the person's behavior?"
+      ],
+      [
+        "What is the person at the table likely preparing to do?"
+      ],
+      [
+        "How might the presentation of the dessert influence its enjoyment?"
+      ],
+      [
+        "Considering someone is about to enjoy a dessert, how might they prefer their beverage to complement it, based on the supplies visible on the table?"
+      ],
+      [
+        "How might one describe the visual contrast in this image, and does the composition suggest a shared or individual dining experience?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.9,
+      0.5,
+      0.6,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000047242",
+    "image": "000000047242.jpg",
+    "questions": [
+      [
+        "What factors should a person consider before buying donuts from this outdoor market?\n<image>"
+      ],
+      [
+        "How might this street vendor appeal to potential customers?"
+      ],
+      [
+        "Based on the scene, what different types of options are available for a person with a sweet tooth?"
+      ],
+      [
+        "How does the vendor create interest for potential customers?"
+      ],
+      [
+        "Considering the selection available, what could be a reason for people to visit this place?"
+      ],
+      [
+        "If someone were considering buying a variety of items from here, what factors should they take into account?"
+      ],
+      [
+        "What factors should be considered if someone wanted to choose a sweet treat from this display elegantly?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.6,
+      0.2,
+      0.6,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "id": "000000530168",
+    "image": "000000530168.jpg",
+    "questions": [
+      [
+        "What specific items may suggest that the user has an interest in pop culture or cartoons?\n<image>"
+      ],
+      [
+        "What can be deduced about the owner of this desk based on the objects available on it?"
+      ],
+      [
+        "What makes this workspace unique compared to a typical one?"
+      ],
+      [
+        "What are the non-digital items that are decorating this workspace?"
+      ],
+      [
+        "Considering the diverse items on the desk, can you infer what the desk owner's interests or profession might be?"
+      ],
+      [
+        "Why might someone arrange their workspace in such a way, and how does it benefit their productivity or creativity?"
+      ],
+      [
+        "How might the setup on this desk indicate the user's interest or profession?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.6,
+      0.8,
+      0.6
+    ]
+  },
+  {
+    "id": "000000425155",
+    "image": "000000425155.jpg",
+    "questions": [
+      [
+        "<image>\nWhat might have led to the gourmet pizzas being served in an oblong shape?"
+      ],
+      [
+        "What is the implication of the partially eaten pizzas on the dining table?"
+      ],
+      [
+        "What can be said about the consumption habits of people around this table?"
+      ],
+      [
+        "What could be the recent event in this scene?"
+      ],
+      [
+        "What can be inferred about the progression of the meal based on the remnants seen here?"
+      ],
+      [
+        "Considering how the items on the plates are arranged, what might have happened during the consumption of the food?"
+      ],
+      [
+        "Given the state of the plates, what likely occurred during the meal, and what dining habits does this suggest?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.5,
+      0.9,
+      0.9,
+      0.7,
+      0.7
+    ]
+  },
+  {
+    "id": "000000177404",
+    "image": "000000177404.jpg",
+    "questions": [
+      [
+        "<image>\nWhy might a laptop and its accessories be on the floor instead of a more conventional working area?"
+      ],
+      [
+        "What might be indicated about the person's work style from this scenario?"
+      ],
+      [
+        "What might this setup indicate about the owner's activities?"
+      ],
+      [
+        "Why might someone arrange their belongings as seen in this picture?"
+      ],
+      [
+        "What distinguishes this portable computing device from modern alternatives in terms of design and capacity?"
+      ],
+      [
+        "Considering the technology displayed in the photograph, what era is suggested by its features and design, and what might one infer about its performance capabilities compared to modern standards?"
+      ],
+      [
+        "How does the technology in the photo reflect the time period from which it originates, and what might be some limitations compared to current standards?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.5,
+      0.6,
+      0.6,
+      0.8,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000306627",
+    "image": "000000306627.jpg",
+    "questions": [
+      [
+        "What precautions should the man take while cutting the cake?\n<image>"
+      ],
+      [
+        "What suggestions would you provide for distributing the cake?"
+      ],
+      [
+        "What might be the occasion taking place in this scene?"
+      ],
+      [
+        "Given the man's actions, what is likely the occasion?"
+      ],
+      [
+        "What special occasion might the person be preparing for, and how can you tell?"
+      ],
+      [
+        "What indication is there that a personal celebration may be occurring?"
+      ],
+      [
+        "Considering the situation, what might be the reason for the person's action?"
+      ]
+    ],
+    "score": [
+      0.2,
+      0.2,
+      0.8,
+      0.8,
+      0.8,
+      0.3,
+      0.8
+    ]
+  },
+  {
+    "id": "000000563746",
+    "image": "000000563746.jpg",
+    "questions": [
+      [
+        "What activities might this family enjoy as they spend time together in their living room?\n<image>"
+      ],
+      [
+        "What might this family be doing to spend their time together?"
+      ],
+      [
+        "What might this family enjoy doing in their downtime based on the objects available in the living room?"
+      ],
+      [
+        "What activities does this family seem to enjoy based on what's found in their living room?"
+      ],
+      [
+        "Considering the context of the environment, what might be the nature of the event taking place, and how can one describe the layout and atmosphere?"
+      ],
+      [
+        "Considering the atmosphere and decor, what type of event might be taking place in this room and how is it prepared to cater to all age groups present?"
+      ],
+      [
+        "Considering the arrangement of the room, what type of event might be taking place and what are some decorative elements used to set the atmosphere?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.6,
+      0.5,
+      0.5,
+      0.6,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "000000004051",
+    "image": "000000004051.jpg",
+    "questions": [
+      [
+        "<image>\nWhat could be the reason behind the unhygienic condition of the bathroom?"
+      ],
+      [
+        "What could be the potential issue in this bathroom scenario?"
+      ],
+      [
+        "What can you infer about the maintenance of this bathroom?"
+      ],
+      [
+        "What issues are evident in the current state of the bathroom?"
+      ],
+      [
+        "Considering its current state, what improvement actions can be suggested for this particular room?"
+      ],
+      [
+        "How can the condition of the bathroom be improved based on what is observed?"
+      ],
+      [
+        "What improvements could be made to enhance the functionality and aesthetics of the space pictured?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.6,
+      0.7,
+      0.8,
+      0.7,
+      0.3
+    ]
+  },
+  {
+    "id": "000000407899",
+    "image": "000000407899.jpg",
+    "questions": [
+      [
+        "What color is the real cat in the image?\n<image>",
+        "What kind of stuffed animal is the real cat laying next to?",
+        "Is the real cat simply laying next to the stuffed cat or are they interacting with it in any way?",
+        "Why do cats interact with stuffed animals or toys?"
+      ],
+      [
+        "Can you describe the color of both the real cat and the stuffed animal in the image?",
+        "What is the position of the gray cat relative to the stuffed animal?",
+        "How many cats are there in the image?",
+        "What's the sentiment that this image portrays?"
+      ],
+      [
+        "What color is the real cat in the image?",
+        "What is the real cat doing in the image?",
+        "What is the color of the stuffed animal next to the real cat?",
+        "Is there more than one real cat in the image?",
+        "What does the image suggest about the relationship between the real cat and the stuffed toy cat?"
+      ],
+      [
+        "What is the main subject in the image?",
+        "What is the gray cat doing in the image?",
+        "What is the color of the real cat and the stuffed toy cat in the image?",
+        "Can you explain the concept of pets having toys, based on what you see in the image?"
+      ],
+      [
+        "What animals are visible in the image?",
+        "Can you describe the appearance of the real cat?",
+        "What is the cat doing in the image?",
+        "Are there any other objects in the background?",
+        "What might the presence of the toy next to the real cat indicate?"
+      ],
+      [
+        "What are the two objects shown in the image?",
+        "What is the primary color of the cat's fur?",
+        "What is the cat doing in the image?",
+        "Are there any significant differences between the real cat and the toy cat?",
+        "Can you infer any possible reasons for the real cat's proximity to the plush toy?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.6,
+      0.8,
+      0.6,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000008373",
+    "image": "000000008373.jpg",
+    "questions": [
+      [
+        "What is the airplane doing at the airport?\n<image>",
+        "What type of aircraft is in the image?",
+        "Is the plane parked by a terminal or at a remote location?",
+        "How do passenger walkways work at airports?"
+      ],
+      [
+        "What is the airplane doing in this image?",
+        "What type of airplane can you see in the image?",
+        "What other vehicles can be seen in the image?",
+        "Can you identify the specific activities happening around the airplane?",
+        "Can you describe more about the process of loading and deplaning passengers at an airport?"
+      ],
+      [
+        "What is the main activity occurring in the image?",
+        "Can you tell me how many airplanes you can see in the image?",
+        "Apart from airplanes, what other vehicles can you observe in the image?",
+        "How can one confirm that the airplane is either loading or unloading passengers?",
+        "Can you see any other activities that suggests this location is an airport?"
+      ],
+      [
+        "What is the primary large object in this image?",
+        "Where is the airplane located?",
+        "Is the airplane doing in the image?",
+        "Are there any other vehicles visible in this image?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.4,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "000000104541",
+    "image": "000000104541.jpg",
+    "questions": [
+      [
+        "<image>\nHow many pizzas can be seen on the table?",
+        "What color is the table?",
+        "Are the pizzas in pans or just on the table directly?",
+        "Are there any toppings visible on the pizzas, or are they plain?",
+        "What might be the purpose of displaying the pizzas on the table?"
+      ],
+      [
+        "How many pizzas are there in the image?",
+        "What is the arrangement of the pizzas on the table?",
+        "What is the color of the table?",
+        "Can you identify any toppings on the pizzas?",
+        "Is there anything else on the table besides the pizzas?"
+      ],
+      [
+        "How many pizzas are there on the table?",
+        "What type of pizzas are on the table?",
+        "What is the color of the table where the pizzas are placed?",
+        "Are there any other objects on the table aside from the pizzas?",
+        "Is anything distinctive about the placement of the pizzas?",
+        "What is the importance of pizza in the food culture?"
+      ],
+      [
+        "How many pizzas are there on the table?",
+        "What is the color of the table?",
+        "Are the pizzas in any container or directly placed on the table?",
+        "Do the pizzas have any toppings, or are they plain?",
+        "Is there anything else visible on the table beside the pizzas?"
+      ],
+      [
+        "What type of food is being shown in the image?",
+        "How many pizzas are there in the image?",
+        "Can you describe the pizzas' toppings?",
+        "What is the pizzas' setting? Where are they placed?",
+        "Are homemade pizzas like these common in any particular culture or cuisine?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.7,
+      0.9,
+      0.6
+    ]
+  },
+  {
+    "id": "000000167431",
+    "image": "000000167431.jpg",
+    "questions": [
+      [
+        "<image>\nWhat type of toy is featured in the image?",
+        "What is the color scheme of the stuffed bear?",
+        "What is the bear sitting on? Can you describe it?",
+        "Based on the image, would this bear be considered traditional or unique?"
+      ],
+      [
+        "What type of stuffed toy is in the image?",
+        "What are the colors of the teddy bear?",
+        "Where is the teddy bear positioned in the image?",
+        "What color is the bench on which the bear is sitting?",
+        "In what context do you think this colorful teddy bear might be used or gifted?"
+      ],
+      [
+        "What is the main object in this image?",
+        "Where is the teddy bear located in the picture?",
+        "What is the bear made out of based on the information from the image description?",
+        "Why is the bear described as ugly in one description and what does it signify about subjective descriptions?"
+      ],
+      [
+        "What is the main object featured in the image?",
+        "What color is the bear and what material does it seem to be?",
+        "In what position is the bear and where is it placed?",
+        "What's special about the bench the bear is sitting on?",
+        "What's the overall impression of the teddy bear?"
+      ],
+      [
+        "What object is shown sitting on the bench?",
+        "Can you describe the colors visible on the teddy bear?",
+        "What material does the bear appear to be made of?",
+        "Is there any indication of who might own the teddy bear or why it is there?",
+        "Discuss the significance of handcrafted items like this teddy bear."
+      ],
+      [
+        "What kind of object is sitting on the bench?",
+        "How many colors are visible on the teddy bear?",
+        "Does the teddy bear appear to be new or used?",
+        "What might be the purpose of placing the teddy bear on the bench?",
+        "Can the teddy bear's location evoke any particular emotions or thoughts?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.6,
+      0.7,
+      0.9,
+      0.5,
+      0.7
+    ]
+  },
+  {
+    "id": "000000045165",
+    "image": "000000045165.jpg",
+    "questions": [
+      [
+        "What color is the bus in the image?\n<image>",
+        "Is there any distinguishable feature or pattern on the bus?",
+        "What kind of vehicles can be seen on the city street?",
+        "Is the street busy or relatively empty?",
+        "Can you describe the surrounding environment of the street?"
+      ],
+      [
+        "What color is the bus in the image?",
+        "How would you describe the traffic situation in the image?",
+        "What other objects are included in the image besides the bus and cars?",
+        "Are there any other distinguishing features about the bus?",
+        "Can you describe the setting of the image?"
+      ],
+      [
+        "What color is the bus in the image?",
+        "What are the colors of the cars near the bus?",
+        "How would you describe the traffic situation in the image?",
+        "Are there any pedestrians or other objects visible in the image?",
+        "Can you tell what type of bus it is?"
+      ],
+      [
+        "What type of vehicles are visible in the image?",
+        "What color is the bus in the image?",
+        "Can you give a brief description of the scene in the image?",
+        "Based on the positions, which vehicle is closer to the left edge of the image?",
+        "What can be inferred from the image with respect to the traffic situation in the city?"
+      ],
+      [
+        "What types of vehicles are in the image?",
+        "What activity are the vehicles engaged in?",
+        "Is the bus in front of or behind the sedan?",
+        "Can you tell anything about the location based on the vehicles or surroundings?"
+      ],
+      [
+        "Can you identify the types of vehicles present in this image?",
+        "What is the color of the bus?",
+        "Is there a visible company name on the bus?",
+        "What is the bus likely being used for in this urban setting?"
+      ],
+      [
+        "How many vehicles are visible in the image?",
+        "What are the types of these vehicles?",
+        "Can you tell the location based on the image?",
+        "What does the presence of both a bus and a car in the same photo suggest about transportation options in this area?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.7,
+      0.9,
+      0.8,
+      0.5,
+      0.6,
+      0.5
+    ]
+  },
+  {
+    "id": "000000496646",
+    "image": "000000496646.jpg",
+    "questions": [
+      [
+        "What do the people in the image seem to be doing?\n<image>",
+        "How many shirtless men are in the image?",
+        "What kind of clothing is the man wearing ancient Roman garb dressed in?",
+        "Based on the outfits and activities in the image, what kind of gathering or event do you think this could be?"
+      ],
+      [
+        "How many people can you identify in the picture?",
+        "What can you tell me about the men without shirts?",
+        "What are some of the objects certain people are holding in the crowd?",
+        "Where is this event taking place?",
+        "Can you share more about the mood of the event?"
+      ],
+      [
+        "Can you describe the attire of a specific person in the crowd?",
+        "Aside from this person, what are the other people in the crowd doing?",
+        "Are there any other peculiar costumes noticed in the crowd, such as the man in Roman garb?",
+        "Are there any specific objects you can identify in the image?",
+        "Approximately how many people are in the image?"
+      ],
+      [
+        "Can you spot any men without shirts on in the image?",
+        "What are the people in the image doing?",
+        "How is one man in the crowd dressed distinctively?",
+        "How many people are visible in the image in total?",
+        "What types and quantities of objects can you recognize in the image apart from people?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.9,
+      0.7,
+      0.8
+    ]
+  },
+  {
+    "id": "000000389856",
+    "image": "000000389856.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the primary action taking place in the image?",
+        "Who is positioned behind the baseball player, and what is their role?",
+        "Are there people watching the game in the background? If so, where are they located?",
+        "Describe the scene from the baseball batter's perspective."
+      ],
+      [
+        "Is there a catcher at a specific position in reference to the baseball player who is preparing to swing his bat?",
+        "How many people are there in the image?",
+        "Are there spectators watching the baseball game?",
+        "What is the position of the baseball player and the catcher in relation to each other?",
+        "What objects associated with baseball can you see in the image?",
+        "What might be happening next in this scenario?"
+      ],
+      [
+        "What is the baseball player doing in the image?",
+        "Who is behind the baseball player?",
+        "Is there an audience present in this scene?",
+        "How many people are visible in the image?",
+        "Could you tell us more about the role of a catcher in a baseball game?"
+      ],
+      [
+        "Can you tell whether there is a game going on in the image or if it's just a practice session?",
+        "How many people are visible in the image, including the player and the catcher?",
+        "Where are the baseball bat and glove located with reference to the players?",
+        "Can you describe the action occurring in the image?",
+        "Could you discuss a bit about the roles of these players in the game of baseball?"
+      ],
+      [
+        "What sport is being played in the image?",
+        "Can you describe the action that is taking place?",
+        "What is the uniform color of the player at bat?",
+        "What can you infer about the location where the image was taken?",
+        "Is it possible to determine the teams or the league from the image?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.6,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "id": "000000040091",
+    "image": "000000040091.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the woman doing in the image?",
+        "Is the woman currently swimming in the pool or sitting outside of it?",
+        "What type of headwear is the woman wearing?",
+        "Is the woman floating or sitting?",
+        "What is the purpose of a swimming cap?"
+      ],
+      [
+        "What is the woman doing in the image?",
+        "What is the woman wearing on her head?",
+        "Is the woman in the water or beside the water?",
+        "How many chairs are visible in the photograph?",
+        "Where is the woman located in relation to the chairs?",
+        "What can we infer about the swimmer based on her swim cap?"
+      ],
+      [
+        "What is the woman doing in the image?",
+        "What is the woman wearing on her head?",
+        "Where is the woman located in relation to the chairs?",
+        "What nation does the swim cap the girl is wearing represent?",
+        "How many chairs are visible in this image?"
+      ],
+      [
+        "Is the woman in the image wearing a swimming cap?",
+        "Where is the woman in relation to the pool?",
+        "Is there any furniture visible in the image?",
+        "Is the woman alone in the picture or are there other people?",
+        "What kind of body of water is shown in the picture?"
+      ],
+      [
+        "What is the person in the image wearing on their head?",
+        "What is the primary activity the person in the image appears to be engaging in?",
+        "What colors are noticeable on the swim cap?",
+        "Can you determine the type of location where the person is?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.9,
+      0.8,
+      0.6
+    ]
+  },
+  {
+    "id": "000000392319",
+    "image": "000000392319.jpg",
+    "questions": [
+      [
+        "How is the woman's hair described in the image?\n<image>",
+        "What is the woman holding?",
+        "What type of location is the woman in?",
+        "Is the woman standing or sitting in the image?",
+        "What color is the woman's shirt?"
+      ],
+      [
+        "What is the woman's hair color in the image?",
+        "What is the woman doing in the image?",
+        "What is the woman wearing in the image?",
+        "Is the woman alone in the image or are there other people?",
+        "Can you tell what else is on the dining table other than the beer?",
+        "What's the possible setting based on the elements in the image?"
+      ],
+      [
+        "What color is the woman's hair in the image?",
+        "What is the woman doing in the image?",
+        "Where is the woman sitting?",
+        "What is the woman's clothing color as seen in the image?",
+        "Apart from the woman, is there any other person visible in the image?",
+        "Apart from the beer glass and table, can you identify any other objects in the image?"
+      ],
+      [
+        "What is the woman doing in the picture?",
+        "Can you describe the woman's appearance?",
+        "What is on the table in front of the woman?",
+        "Is this woman the only person in the image?",
+        "Is there any other object of note in the image?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.5,
+      0.8,
+      0.8
+    ]
+  },
+  {
+    "id": "000000295399",
+    "image": "000000295399.jpg",
+    "questions": [
+      [
+        "Are the people in the image seated or standing?\n<image>",
+        "Are the people eating or socializing?",
+        "What is the setting of the image?",
+        "What can you say about the atmosphere of the restaurant based on the image?"
+      ],
+      [
+        "How many people can be seen in the image?",
+        "What is the group of people doing in the image?",
+        "What kind of items and furnishings are visible in the restaurant?",
+        "Could you provide a comprehensive description of the scene captured in the image?"
+      ],
+      [
+        "How many people can you see in the restaurant image?",
+        "What are the people doing in the restaurant?",
+        "What types of objects are visible in the restaurant?",
+        "How many televisions are there on the wall?",
+        "What kind of atmosphere does the image suggest about the restaurant?"
+      ],
+      [
+        "How many people are visible in this restaurant scene?",
+        "Where are the people located? Are they standing or sitting?",
+        "What types of objects can you identify in this image besides people?",
+        "What kind of venue does it seem to be, based on the setting and objects present?",
+        "Based on the image, describe the ambiance or atmosphere of the venue."
+      ]
+    ],
+    "score": [
+      0.2,
+      0.4,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "id": "000000353881",
+    "image": "000000353881.jpg",
+    "questions": [
+      [
+        "What is the setting of the image?\n<image>",
+        "What type of photography technique is used in the image?",
+        "How is the lighting in the image?",
+        "What does the time-lapse photograph originally imply about the traffic in the city?"
+      ],
+      [
+        "Can you describe the main action captured in this photograph?",
+        "How many cars can be identified in this photograph?",
+        "Can you tell me more about the other elements in the image besides cars?",
+        "How does a time-lapsed photograph work, and why do you think it was used in this image?"
+      ],
+      [
+        "Does the image depict a daytime or nighttime city scene?",
+        "Can you count the number of cars in the image?",
+        "Is there a pedestrian visible in this image?",
+        "Are there any traffic lights captured in the image?",
+        "Apart from cars and people, is there any other object of note in the scene?",
+        "This image is described as a time-lapsed photograph. Can you explain what time-lapse photography is and why it might be used in this context?"
+      ],
+      [
+        "Can you describe the quality or technique of the photograph?",
+        "Are there only vehicles in the photograph?",
+        "How many people can you see in the image?",
+        "Can you describe the location of the fire hydrant in this image?",
+        "In respect to the traffic, what other element of city infrastructure can be seen in the image?",
+        "In general, what do traffic patterns look like in congested urban areas?"
+      ],
+      [
+        "What is the primary photographic technique used to capture the motion of the cars in the image?",
+        "Can you tell the time of day this photo was taken?",
+        "What kind of vehicles are contributing to the light trails in the photo?",
+        "What are some of the visible signs of urban life in the image?",
+        "Based on the lighting and movement captured, what can you deduce about the flow of traffic at the time the image was taken?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.9,
+      0.7,
+      0.5
+    ]
+  },
+  {
+    "id": "000000072030",
+    "image": "000000072030.jpg",
+    "questions": [
+      [
+        "How many navy jets are flying together in the image?\n<image>",
+        "What is the color of the jets in the image?",
+        "In what type of formation are the navy jets flying?",
+        "What are the Blue Angels and what purpose do they serve?"
+      ],
+      [
+        "How many jets are in the photo and what color are they?",
+        "What is the pattern of the Navy jets in the image?",
+        "Are the pilots visible in the image?",
+        "Can you explain more about the Blue Angels and their significance?"
+      ],
+      [
+        "How many navy jets are there in the image?",
+        "What is the formation of the navy jets?",
+        "Are the navy jets stationary or moving?",
+        "Which squad do these navy jets belong to?",
+        "Could you provide some background information on the Blue Angels?"
+      ],
+      [
+        "How many navy jets are there present in the image?",
+        "Can you tell about their formation while flying?",
+        "What is the color of the jets in the picture?",
+        "What are the Blue Angels? Can you explain more about them?"
+      ],
+      [
+        "How many jets are present in the image?",
+        "What is distinctive about the paint design on the jets?",
+        "Can you tell me more about the Blue Angels?",
+        "What appears to be happening in this particular moment captured in the image?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.7,
+      0.5,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "id": "000000431378",
+    "image": "000000431378.jpg",
+    "questions": [
+      [
+        "Is the man wearing a wetsuit in the image?\n<image>",
+        "What color is the surfboard the man is riding?",
+        "What is happening with the surfer and the wave in the image?",
+        "What stage of the surf is the man in?",
+        "Are there any other surfers visible in the image?"
+      ],
+      [
+        "What is the man in the image doing?",
+        "What is the surfer wearing?",
+        "Is the surfer successfully riding the wave or is he at the beginning stage of a wipeout?",
+        "What can you infer about the surfer's intention based on the image?",
+        "Can you explain more about surfing and what may be going on in the picture?"
+      ],
+      [
+        "What is the colour of the surfboard in the image?",
+        "What is the attire of the man in the image?",
+        "What is the man doing on the surfboard?",
+        "What does it mean when you say a surfer is in the first stage of a wipeout?"
+      ],
+      [
+        "What is the surfer doing in the image?",
+        "What is the color of the surfboard the surfer is riding on?",
+        "What is the surfer wearing?",
+        "Could you explain what a 'wipe out' is in surfing?"
+      ],
+      [
+        "What is the person in the image doing?",
+        "Can you describe the surfer's attire?",
+        "What is the wave like in the image?",
+        "Is there anything notable about the surfer's posture or technique?",
+        "Can you infer anything about the location or conditions for surfing from the image?"
+      ]
+    ],
+    "score": [
+      0.9,
+      0.8,
+      0.7,
+      0.7,
+      0.9
+    ]
+  },
+  {
+    "id": "000000061838",
+    "image": "000000061838.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the young boy doing in the image?",
+        "What type of shirt is the boy wearing?",
+        "Is the boy using his hands or utensils to eat the pizza?",
+        "Why might someone use a fork and knife to eat pizza rather than using their hands?"
+      ],
+      [
+        "What is the boy in the image doing?",
+        "What is the boy wearing?",
+        "How many chairs are visible in the image?",
+        "What objects are on the table in the image?",
+        "Where are the chair and the dining table located, relatively to each other?",
+        "Where is the pizza positioned in relation to the utensils?",
+        "Can you tell from the image whether the pizza was homemade or ordered from a restaurant?"
+      ],
+      [
+        "What is the boy doing in the image?",
+        "Can you describe the boy's appearance?",
+        "What utensils is the boy using to eat his pizza?",
+        "Can you tell me how many chairs are in the image?",
+        "What is the relative position of the pizza and the boy?"
+      ],
+      [
+        "What is the boy in the image doing?",
+        "What is the boy's attire?",
+        "How is the boy eating his pizza?",
+        "What objects are present on the table aside from the pizza?",
+        "Is the boy eating alone or are there other people visible in the image?",
+        "Can you describe the placement (relative position) of the objects on the table?",
+        "What can you tell me about the dining table setup being used by cultures around the world?"
+      ],
+      [
+        "What is the person in the image doing?",
+        "What other items are visible on the table?",
+        "Can you tell what kind of setting this is?",
+        "How is the person eating the pizza?",
+        "What could be the reason for the casual setting observed in the image?"
+      ],
+      [
+        "What is the child doing in the image?",
+        "What kind of food items can be seen on the table?",
+        "Is the child sitting indoors or outdoors?",
+        "What might be the event taking place where the child is eating?",
+        "Discuss the importance of utensils for children while eating."
+      ]
+    ],
+    "score": [
+      0.6,
+      0.9,
+      0.9,
+      0.7,
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "id": "000000457041",
+    "image": "000000457041.jpg",
+    "questions": [
+      [
+        "<image>\nWhat breed is the dog in the image?",
+        "What is the pug doing in the image?",
+        "Is the pug wearing a leash in the image?",
+        "What is the surrounding environment like?",
+        "Why might the pug be yawning?"
+      ],
+      [
+        "What breed of dog is in the image?",
+        "What is the pug doing in the image?",
+        "Is the dog on a leash?",
+        "Where is the dog located in this scene?",
+        "Can you provide more details about the environment where the dog is located?"
+      ],
+      [
+        "What type of dog is sitting on the bench in the image?",
+        "Can you describe the dog's activity in the image?",
+        "What is surrounding the bench where the dog is sitting?",
+        "Is the dog wearing a leash?",
+        "Could you provide a bit more information about why dogs yawn or pant?"
+      ],
+      [
+        "What breed of dog is in the picture?",
+        "What is the dog doing in the image?",
+        "Where is the dog situated in the image?",
+        "Does the dog seem to be restrained or free to roam?",
+        "Can you describe a bit about the breed of the dog?"
+      ],
+      [
+        "What breed of dog is in the photo?",
+        "How would you describe the dog's expression or demeanor?",
+        "What is the dog doing in the image?",
+        "Can you tell what time of year it might be based on the surroundings?",
+        "Is the location in which the Pug is situated typical for dogs?"
+      ],
+      [
+        "What type of dog is seen in the image?",
+        "What is the dog doing in the image?",
+        "Can you describe the setting in which the dog is located?",
+        "What does the dog's body language suggest about its mood?",
+        "Given the attire of the dog, which includes a leash, what can we infer about its owner or the situation?"
+      ],
+      [
+        "What breed of dog is shown in the image?",
+        "How is the Pug positioned in relation to the bench?",
+        "What is the expression on the Pug's face?",
+        "What surrounds the bench where the Pug is sitting?",
+        "What might be the reason for someone wanting to capture such an image of the Pug?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.9,
+      0.7,
+      0.8,
+      0.6,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "000000283312",
+    "image": "000000283312.jpg",
+    "questions": [
+      [
+        "What color is the airplane in the image?\n<image>",
+        "What is the airplane doing on the airport runway?",
+        "Is the airplane a commercial jetliner or a private plane?",
+        "Where is the airplane located at the airport?",
+        "What are some common activities that happen on the tarmac when a commercial jetliner is preparing for departure?"
+      ],
+      [
+        "What color is the airplane in the image?",
+        "What is the airplane doing in the image?",
+        "Could you tell me more about the location of the airplane?",
+        "Are there any people visible in the image?"
+      ],
+      [
+        "What color is the airplane in the image?",
+        "Can you describe the location of the airplane?",
+        "What is the airplane currently doing?",
+        "Are there any people visible in the image?",
+        "Based on the information, can you provide a brief summary of the scene in the image?"
+      ],
+      [
+        "What is the main object in the image?",
+        "What color is the airplane?",
+        "Where is the airplane located?",
+        "Is the airplane accepting passengers at the moment?",
+        "Can we confirm the presence of any people in the image?"
+      ],
+      [
+        "What type of vehicle is shown in the image?",
+        "Can you identify the airline based on the image?",
+        "How many engines can be seen on the airliner?",
+        "What is the approximate size of the airliner compared to the people seen in the image?",
+        "What is the current activity taking place involving the airliner?"
+      ],
+      [
+        "What type of vehicle is shown in the image?",
+        "What is the color scheme of the airplane?",
+        "Can you see any airline branding or logos on the airplane?",
+        "What activity appears to be taking place around the airplane?",
+        "Why do airplanes like the one in the image usually park connected to an airport terminal gate?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.5,
+      0.5,
+      0.4,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "id": "000000101586",
+    "image": "000000101586.jpg",
+    "questions": [
+      [
+        "How many people are involved in the water sport activity in the image?\n<image>",
+        "What water sport are the people engaged in?",
+        "What is the weather condition like during the activity?",
+        "Can you briefly explain what kite surfing is and what kind of equipment is involved?"
+      ],
+      [
+        "How many people are engaged in parasailing in the image?",
+        "What are the people wearing in the image?",
+        "What sports equipment is visible in the image?",
+        "What is the setting of the image?",
+        "Can you tell more about the sport of kite surfing?"
+      ],
+      [
+        "How many people can be seen in the image?",
+        "What activity are the people engaged in?",
+        "Are the people on the water using any equipment for their activity?",
+        "What is the condition or state of the water in the picture?",
+        "Can you briefly explain what kite surfing is?"
+      ],
+      [
+        "How many people are there in the image?",
+        "What activity are the people engaging in on the lake?",
+        "What kind of gear are the people wearing?",
+        "Can you describe the location and the weather conditions?",
+        "Could you elaborate more on what kite surfing is and what it entails?"
+      ]
+    ],
+    "score": [
+      0.4,
+      0.5,
+      0.6,
+      0.7
+    ]
+  },
+  {
+    "id": "000000208006",
+    "image": "000000208006.jpg",
+    "questions": [
+      [
+        "<image>\nHow many people are playing tennis on the court in the image?",
+        "What is one of the women doing in the image?",
+        "Is the image taken during a tennis match or a practice session?",
+        "What are some benefits of playing tennis?"
+      ],
+      [
+        "How many people are there in the image?",
+        "Can you tell me about the actions of the people?",
+        "Where is the tennis ball in the picture?",
+        "What can you tell about the tennis rackets' locations?",
+        "Are the tennis players positioned close to each other or far apart?"
+      ],
+      [
+        "How many people are there in the image?",
+        "How many of them are playing tennis?",
+        "Is there a tennis ball visible in the image?",
+        "Can you describe the actions of the tennis players?",
+        "What about the third person in the image, what are they doing?"
+      ],
+      [
+        "How many people are in the image?",
+        "What action is happening in the image regarding the game of tennis?",
+        "What objects are visible in the image?",
+        "Are all the people present in the image actively participating in the game?",
+        "What are some rules of a standard game of tennis?"
+      ],
+      [
+        "What activity is the person engaged in within the image?",
+        "What is the attire of the person playing tennis?",
+        "Is there a tennis net visible in the image?",
+        "What time of day does the image suggest the tennis game is being played?",
+        "Can you discuss the benefits of engaging in an activity like tennis?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.3,
+      0.2,
+      0.4,
+      0.3
+    ]
+  },
+  {
+    "id": "000000283885",
+    "image": "000000283885.jpg",
+    "questions": [
+      [
+        "<image>\nWhat color is the train in the image?",
+        "What is the setting of the image?",
+        "Is the train a commuter train or a freight train?",
+        "What kind of landscape does the train appear to be traveling through?",
+        "How many train cars can be seen in the image?"
+      ],
+      [
+        "What is the color combination of the train visible in the image?",
+        "Is the train static or in motion?",
+        "What is the surrounding scenery where the train is located?",
+        "Is it a multiple carriage train or a single train car?",
+        "What might be the role of trains in such rural settings?"
+      ],
+      [
+        "What colors is the train in the image?",
+        "Is the train sitting still or moving on the track?",
+        "Can you describe the landscape around the train?",
+        "What type of train is shown in the image?"
+      ],
+      [
+        "What is the color of the train in the image?",
+        "How many cars can be seen on the train?",
+        "What is the surrounding environment where the train is located?",
+        "What type of train is it - freight, passenger, or a commuter train?",
+        "What is the difference between a commuter train and a freight train?"
+      ],
+      [
+        "What type of vehicle is shown in the image?",
+        "Is there more than one train visible in the image?",
+        "Can you describe the design and coloring of the train?",
+        "What does the surrounding environment suggest about the train's location?",
+        "What function do the signals in the background serve in relation to the train?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.6,
+      0.6,
+      0.4
+    ]
+  },
+  {
+    "id": "000000168854",
+    "image": "000000168854.jpg",
+    "questions": [
+      [
+        "What shape is the kite being flown in the image?\n<image>",
+        "What is the color of the heart-shaped kite?",
+        "What is the general activity level on the beach?",
+        "Can you describe the scene and atmosphere at the beach in the image?"
+      ],
+      [
+        "What is one of the main activities happening on the beach according to the image?",
+        "What is the color and shape of the kite being flown?",
+        "How crowded is the beach in the image?",
+        "Where is the kite in relation to the people?",
+        "What can we infer about the day based on the image and its description?"
+      ],
+      [
+        "What is the object being flown in the sky?",
+        "What color is the kite that is being flown?",
+        "Can you describe the setting in the image?",
+        "How many people can be seen in the image?",
+        "Can you describe the popularity of kite flying as a beach activity?"
+      ],
+      [
+        "What kind of kite is being flown by the person in the image?",
+        "Please describe the color of the kite in the image.",
+        "Apart from the person flying the kite, are there any other people in the image?",
+        "What is the setting of this image?",
+        "Why might people engage in kite flying, as seen in the image?"
+      ],
+      [
+        "What is the large object in the sky?",
+        "How many people are visible on the ground?",
+        "What is the terrain or surface like where the people are standing?",
+        "What activity are the people likely participating in?",
+        "Can you provide insights into the cultural significance of kite flying in some regions?"
+      ],
+      [
+        "What is the main object being flown in the image?",
+        "How many people can you see in the image?",
+        "What is the environment or setting in which the kite is being flown?",
+        "What time of day does the image suggest?",
+        "What might be the event or occasion for such a kite flying activity?"
+      ]
+    ],
+    "score": [
+      0.5,
+      0.7,
+      0.7,
+      0.8,
+      0.6,
+      0.6
+    ]
+  },
+  {
+    "id": "000000140247",
+    "image": "000000140247.jpg",
+    "questions": [
+      [
+        "What is the weather condition in the image?\n<image>",
+        "What is the color and theme of the large sign mounted on the side of a building?",
+        "What types of establishments can be seen along the wet sidewalk?",
+        "Are there any other notable signs or designs visible in the image?",
+        "Can you see people walking on the city street after the rain in the image?"
+      ],
+      [
+        "What is notable about the sign on the building?",
+        "Could you describe the weather conditions apparent in the image?",
+        "What are people doing in the image?",
+        "Can you describe the signs that can be observed on the city street?",
+        "Based on the bounding boxes information, how many cars and people can you see in the image?"
+      ],
+      [
+        "What is the color of the Tavern sign in the image?",
+        "What is the condition of the sidewalk in the image?",
+        "What kind of establishments can be seen along the sidewalk?",
+        "What kind of transportation and pedestrians can be seen in the image?",
+        "Can you explain the context and environment of the photo in more detail?"
+      ],
+      [
+        "What is the weather condition in the city as seen in the image?",
+        "What are some distinctive signs visible in the image?",
+        "What type of objects or entities are predominant in the image besides people?",
+        "What features indicate that this is a busy city street?",
+        "While looking at the picture, can you describe the atmosphere of the location?"
+      ]
+    ],
+    "score": [
+      0.6,
+      0.3,
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "id": "000000499317",
+    "image": "000000499317.jpg",
+    "questions": [
+      [
+        "<image>\nWhat is the main furniture item in the room?",
+        "What type of flooring is present in the room?",
+        "Is there a window in the room?",
+        "What other furniture item is within the room?",
+        "Does the bed have a specific type of bedding, like a down comforter?"
+      ],
+      [
+        "What materials can be seen in the room according to the image?",
+        "Where is the bed located in the room?",
+        "What type of bed is in the room?",
+        "Is there any book visible in the image?",
+        "What is the position of the dining table in relative to the bed?"
+      ],
+      [
+        "What type of bed is in the room?",
+        "Where is the bed positioned in the room?",
+        "What type of floor does this room have?",
+        "Apart from the bed, what other furniture is present in the room?",
+        "Can you provide a brief description of the layout of the room?"
+      ],
+      [
+        "Can you describe the type of bed seen in the room?",
+        "What is the condition of the bedroom floor?",
+        "What is the layout of the room with respect to the window, bed, and the table?",
+        "Is there any information about the occupancy of the room?",
+        "What additional items or furniture are there in room other than the bed and the table?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.4,
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "id": "000000351654",
+    "image": "000000351654.jpg",
+    "questions": [
+      [
+        "<image>\nWhat type of images are displayed in the collage?",
+        "What is the overall theme of the images in the collage?",
+        "Can you infer what kind of meal is being prepared from the collage?",
+        "What can one learn from this type of photo collage?"
+      ],
+      [
+        "How many photos of bowls are there in the collage?",
+        "Is there a photo of food being cooked in the oven in the collage?",
+        "Can you identify a photo showing something specific being prepared?",
+        "What area of the collage is the dining table located?",
+        "Is there an image of a cup in the collage?"
+      ],
+      [
+        "How many images of a bowl can you see in the collage?",
+        "Is there a picture of pizza being prepared in the collage?",
+        "What appliances are visible in the collage?",
+        "Are there other types of food or dishes aside from pizza and the ones in the bowl in the collage?",
+        "Where is the image of the dining table placed in relation to the other pictures in the collage?"
+      ],
+      [
+        "How many bowls can you see in the image?",
+        "Is there a pizza in the image?",
+        "What kind of a table appears in the image?",
+        "Where is the oven located in relation to the pictures of the bowls?",
+        "What is the general theme of the photo collage?"
+      ]
+    ],
+    "score": [
+      0.7,
+      0.8,
+      0.8,
+      0.9
+    ]
+  },
+  {
+    "id": "000000121661",
+    "image": "000000121661.jpg",
+    "questions": [
+      [
+        "What are the main items on the wooden table?\n<image>",
+        "What is the purpose of the table in this image?",
+        "Is the laptop open or closed?",
+        "What type of surface is the laptop and printer sitting on?",
+        "What can you infer about the person who uses this workstation?"
+      ],
+      [
+        "What type of furniture is hosting the items, and what material is it made from?",
+        "What main electronic devices are present on the table?",
+        "Are there any other items present on the table besides the laptop computer and the printer? If yes, what are they?",
+        "Is there any sign of a seating arrangement near the table?",
+        "Can you describe the layout and relative position of the items on the table?",
+        "What can we infer about the table's usage from the objects present on it?"
+      ],
+      [
+        "What types of objects are on the wooden table?",
+        "What other items on or near the table can be identified?",
+        "Is the table specifically used for office operations?",
+        "Could you explain how workstations have evolved over time?"
+      ],
+      [
+        "What is the primary piece of furniture seen in the image?",
+        "What objects are on top of the wooden table?",
+        "Can you say something about the overall setting of the image?",
+        "Could you tell me more about using a dining table as a home office?"
+      ],
+      [
+        "What objects are on the desk?",
+        "How many speakers are visible in the image?",
+        "What room of the house does this scene likely depict?",
+        "Is the desk organized or cluttered?",
+        "Could you speculate on what the person who works at this desk might be doing?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.9,
+      0.6,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "id": "000000347351",
+    "image": "000000347351.jpg",
+    "questions": [
+      [
+        "What type of animal is in the image?\n<image>",
+        "What is the color of the cow in the image?",
+        "What is the cow doing in the image?",
+        "Can you describe the type of landscape the cow is in?",
+        "Why are wetlands important for ecosystems and the environment?"
+      ],
+      [
+        "What type of animal is in the image?",
+        "Where is the cow located in the image?",
+        "What is the cow doing in the image?",
+        "What does the surrounding environment of the cow look like?",
+        "Can you tell more about wetlands and why they are important?"
+      ],
+      [
+        "What animal is depicted in the image?",
+        "What is the animal doing in the image?",
+        "What kind of terrain or environment does the animal seem to be in?",
+        "What color is the large steer in the image?",
+        "What features are distinct about the cow or bull in the image?"
+      ],
+      [
+        "Can you describe the animal seen in the image?",
+        "What is the animal doing in the image?",
+        "Where is the animal located in relation to the body of water and the tall grasses?",
+        "Can you provide an educational note regarding the diet of such animals?"
+      ]
+    ],
+    "score": [
+      0.8,
+      0.7,
+      0.3,
+      0.4
+    ]
+  }
+]
