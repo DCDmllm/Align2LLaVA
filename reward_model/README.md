@@ -36,6 +36,17 @@ Additionally, to run reward model inference, you also need to prepare the instru
 
 By default, we recommend to organize the three types of instructions (complex reasoning, conversation, detail description) as three distinct files (`complex_reasoning.json`, `conversation.json`, `detail.json`).
 
+### Model Weights Preparation
+
+Our reward models are fine-tuned with LoRA based on [LLaVA-1.5-7B](https://huggingface.co/liuhaotian/llava-v1.5-7b). We provide LoRA delta weights of the trained reward models as follows.
+
+| Model Type |            Model Name            | Download Link                                                        |
+| :---------: | :----------------------------: | :------------------------------------------------------------------: |
+| Question RM | `align2llava-7b-lora-question` | [Download](https://huggingface.co/Huanghz/align2llava-7b-lora-question) |
+|  Answer RM  |  `align2llava-7b-lora-answer`  | [Download](https://huggingface.co/Huanghz/align2llava-7b-lora-answer)   |
+
+To use the LoRA weights, specify `--model-path` argument in [evaluation](#evaluation) and [inference](#inference) scripts.
+
 ### Training
 
 For quick starting, run the scripts:
@@ -46,10 +57,6 @@ bash ./scripts/train_lora_answer.sh  	# train answer reward model
 ```
 
 The resulting checkpoints are saved under `checkpoints` by default.
-
-### Model Zoo
-
-We also provide trained reward models at [this link](https://huggingface.co/Huanghz/Align2LLaVA_RM).
 
 ### Evaluation
 

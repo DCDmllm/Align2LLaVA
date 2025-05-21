@@ -29,7 +29,7 @@ In this repository, we provide implementation for our proposed reward models in 
    git clone https://github.com/DCDmllm/Align2LLaVA.git
    cd Align2LLaVA
    ```
-2. Clone the [LLaVA](https://github.com/haotian-liu/LLaVA) repository, Install the environment for LLaVA-1.5 instruction tuning.
+2. Clone the [LLaVA](https://github.com/haotian-liu/LLaVA) repository, and install the environment for LLaVA-1.5 instruction tuning.
 
    ```
    git clone https://github.com/haotian-liu/LLaVA.git
@@ -87,3 +87,9 @@ If you find this work useful, please consider giving this repository a star and 
       url={https://arxiv.org/abs/2409.18541}, 
 }
 ```
+
+# Acknowledgment
+Our project is developed based on the following repositories:
+
+- [LLaVA](https://github.com/haotian-liu/LLaVA): Large Language and Vision Assistant
+- [CogVLM](https://github.com/THUDM/CogVLM): Visual Expert for Pretrained Language Models
