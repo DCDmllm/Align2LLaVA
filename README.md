@@ -59,7 +59,7 @@ The implementation of our reward model is in the `reward_model` directory. See [
 
 ## Dataset
 
-Todo
+Our aligned instruction dataset for fine-tuning LLaVA is provided in our [HuggingFace Repo](https://huggingface.co/datasets/Huanghz/Align2LLaVA-IT).
 
 ## LLaVA-1.5 Instruction Tuning
 
